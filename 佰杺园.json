@@ -1,15 +1,15 @@
 {
 
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/20230625.jar",
- "lives": [{"name": "live","type": 0,"url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/list.txt"}],
+"spider":"./baixinyuan.jar",
+ "lives": [{"name": "live","type": 0,"url": "./直播(1).txt"}],
 "sites":[ 
-{"key":"电影盒子","name":"所有资源来自网络，仅供个人测试，请勿商用，如有侵权，请联系删除，","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://github.com/chengxueli818913/TVboxo/blob/main/电影盒子.json"},
+{"key":"电影盒子","name":"所有资源来自网络，仅供个人测试，请勿商用，如有侵权，请联系删除，","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/电影盒子.json"},
 {"key": "Czspp","name": "厂长影视","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,
 "filterable": 1,"ext": "www.czzy88.com"},
  { "key": "csp_xBPQ_奇优","name": "奇优影视","type": 3,"api": "csp_XBPQ","searchable": 1,
- "quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E5%A5%87%E4%BC%98%E5%BD%B1%E8%A7%86.json"},
- {"key": "csp_Free","name": "Free影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/Free%E5%BD%B1%E8%A7%86.json"},
-{"key": "csp_七月","name": "七月影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E6%9F%92%E6%9C%88%E5%BD%B1%E8%A7%86.json"},
+tps://raw.githubusercontent.co "quickSearch": 1,"filterable": 1,"ext": "./json/奇优影视.json"},
+ {"key": "csp_Free","name": "Free影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/FreeOK.json"},
+{"key": "csp_七月","name": "七月影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/柒月影视.json"},
  {"key": "csp_TVB","name": "TVB云播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,
  "filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/TVB%E5%BD%B1%E9%99%A2.json"},
  {"key": "csp_圣城","name": "圣城影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/%E5%9C%A3%E5%9F%8E%E5%BD%B1%E9%99%A2.json"},
