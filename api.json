@@ -3,7 +3,7 @@
 {
  "spider": "./spider.jar",
 
- "sites": [{"key":"电影盒子","name":"所有，","type":3,"api":"csp_XYQHiker","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/电影盒子.json"},
+ "sites": [
 { "key": "csp_xBPQ_奇优","name": "奇优影视","type": 3,"api": "csp_XBPQ","searchable": 1,
  "quickSearch": 1,"filterable": 1,"ext": "./json/奇优影视.json"},
  {"key": "csp_Free","name": "Free影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/FreeOK.json"},
@@ -35,18 +35,14 @@
 {"key": "暴风资源", "name": "暴风采集","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/","searchable": 1, "quickSearch": 1,"categories": ["国产剧", "韩国剧", "香港剧","台湾剧", "欧美剧", "动作片", "科幻片","战争片", "奇幻片","喜剧片","爱情片","恐怖片", "犯罪片", "悬疑片","惊悚片", "剧情片", "冒险片", "记录片", "综艺","动漫" ] },
 {"key":"👨‍🌾宝仙HD","name":"宝仙HD","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/宝仙.json"},
 {"key":"爱迪影视","name":"爱迪影视","type": 3,"playerType":"2","api": "csp_AppYsV2","ext": "https://api123.adys.app/xgapp.php/v3/"},
-{"key":"萌蛋蛋","name":"萌蛋蛋","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.mengdandan.com/xgapp.php/v1/"},
 {"key": "黄黄","name": "黄黄┃影视","api": "csp_AppYsV2","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": "https://yayayaaapp.ynf.icu/api.php/app/"},
-{"key":"热播之家","name":"☘热播之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/热播之家.json"},
 {"key": "快看资源","name": "快看┃切片", "type": 1, "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1, "categories": [ "国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片", "战争片", "奇幻片", "喜剧片","爱情片","恐怖片", "犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片", "综艺", "动漫"]},
 {"key":"迷你库","name":"⏺迷你库","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
 {"key": "csp_xp_yinfans","name": "💥音范丝4K","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/音范丝.json"},
 {"key": "Kuaikan","name": "快看","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
 {"key": "影图","name": "影图","type": 1,"api": "https://cj.vodimg.top/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
-{"key" : "csp_Bd","name" : "哔嘀影视","type" : 3, "api" : "csp_Bdys01","searchable" : 1,"quickSearch" : 1,"filterable" : 1},
 {"key": "csp_xpath_112", "name": "工人影视", "type": 3, "api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "{\r\n    \"author\": \"春风\",\r\n    \"ua\": \"Mozilla/5.0 (Linux; Android 10; LYA-AL00; HMSCore 6.4.0.312; GMSCore 20.15.16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 HuaweiBrowser/11.0.4.300 Mobile Safari/537.36\",\r\n    \"homeUrl\": \"https://v.xiangdao.me\",\r\n    \"dcVipFlag\": \"true\",\r\n    \"dcPlayUrl\": \"true\",\r\n    \"cateManual\": {\r\n        \"电影\": \"1\",\r\n        \"连续剧\": \"2\",\r\n        \"动漫\": \"4\",\r\n        \"综艺\": \"3\"\r\n        \r\n    },\r\n    \"homeVodNode\": \"//section/section[position()>2]//ul[@class='resize_list']/li/a\",\r\n    \"homeVodName\": \"/@title\",\r\n    \"homeVodId\": \"/@href\",\r\n    \"homeVodIdR\": \"/(\\\\S+).html\",\r\n    \"homeVodImg\": \"//@data-echo\",\r\n    \"homeVodImgR\": \"\",\r\n    \"homeVodMark\": \"/div/span[2]/span/text()\",\r\n    \"cateUrl\": \"https://v.xiangdao.me/index.php?m=vod-list-id-{cateId}-pg-{catePg}.html\",\r\n    \"cateVodNode\": \"//ul[@class='resize_list']/li/a\",\r\n    \"cateVodName\": \"/@title\",\r\n    \"cateVodId\": \"/@href\",\r\n    \"cateVodIdR\": \"/(\\\\S+).html\",\r\n    \"cateVodImg\": \"//@data-echo\",\r\n    \"cateVodImgR\": \"\",\r\n    \"cateVodMark\": \"/div/span[2]/span/em/text()\",\r\n    \"dtUrl\": \"https://v.xiangdao.me/{vid}.html\",\r\n    \"dtNode\": \"//body\",\r\n    \"dtName\": \"//section[@class='page-hd']/a/@title\",\r\n    \"dtNameR\": \"\",\r\n    \"dtImg\": \"//section[@class='page-hd']/a/img/@src\",\r\n    \"dtImgR\": \"\",\r\n    \"dtCate\": \"\",\r\n    \"dtCateR\": \"\",\r\n    \"dtYear\": \"//span[contains(text(), '年代')]/following-sibling::a/text()\",\r\n    \"dtYearR\": \"\",\r\n    \"dtArea\": \"\",\r\n    \"dtAreaR\": \"\",\r\n    \"dtDirector\": \"//span[contains(text(), '导演')]/following-sibling::a/text()\",\r\n    \"dtDirectorR\": \"\",\r\n    \"dtActor\": \"//span[contains(text(), '主演')]/following-sibling::a/text()\",\r\n    \"dtActorR\": \"\",\r\n    \"dtDesc\": \"//article[@class='detail-con']/p/text()\",\r\n    \"dtDescR\": \"\",\r\n    \"dtFromNode\": \"//div[@class='hd']/ul/li/a\",\r\n    \"dtFromName\": \"/text()\",\r\n    \"dtFromNameR\": \"\",\r\n    \"dtUrlNode\": \"//div[@class='numList']/ul\",\r\n    \"dtUrlSubNode\": \"/li/a\",\r\n    \"dtUrlId\": \"@href\",\r\n    \"dtUrlIdR\": \"/(\\\\S+).html\",\r\n    \"dtUrlName\": \"/text()\",\r\n    \"dtUrlNameR\": \"\",\r\n    \"playUrl\": \"https://v.xiangdao.me/{playUrl}.html\",\r\n    \"playUa\": \"\",\r\n    \"searchUrl\": \"https://v.xiangdao.me/index.php?m=vod-search&wd={wd}\",\r\n    \"scVodNode\": \"//ul[@class='ulPicTxt clearfix']/li\",\r\n    \"scVodName\": \"//span[@class='sTit']/text()\",\r\n    \"scVodId\": \"//span[@class='sBtn']/a/@href\",\r\n    \"scVodIdR\": \"/(\\\\S+).html\",\r\n    \"scVodImg\": \"//img/@data-src\",\r\n    \"scVodMark\": \"//span[@class='sDes'][2]/text()\",\r\n   \"filter\":{\r\n\"1\": [\r\n{\"name\":\"类型\",\"key\":\"cateId\",\"value\":[{\"n\":\"全部\",\"v\":\"1\"},{\"n\":\"动作片\",\"v\":\"5\"},{\"n\":\"喜剧片\",\"v\":\"6\"},{\"n\":\"爱情片\",\"v\":\"7\"},{\"n\":\"科幻片\",\"v\":\"8\"},{\"n\":\"恐怖片\",\"v\":\"9\"},{\"n\":\"剧情片\",\"v\":\"10\"},{\"n\":\"战争片\",\"v\":\"11\"},{\"n\":\"惊悚片\",\"v\":\"16\"},{\"n\":\"奇幻片\",\"v\":\"17\"}]},\r\n{\"name\":\"年份\",\"key\":\"year\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"2022\",\"v\":\"2022\"},{\"n\":\"2021\",\"v\":\"2021\"},{\"n\":\"2020\",\"v\":\"2020\"},{\"n\":\"2019\",\"v\":\"2019\"},{\"n\":\"2018\",\"v\":\"2018\"},{\"n\":\"2017\",\"v\":\"2017\"},{\"n\":\"2016\",\"v\":\"2016\"},{\"n\":\"2015\",\"v\":\"2015\"},{\"n\":\"2014\",\"v\":\"2014\"},{\"n\":\"2013\",\"v\":\"2013\"},{\"n\":\"2012\",\"v\":\"2012\"},{\"n\":\"2011\",\"v\":\"2011\"},{\"n\":\"2010\",\"v\":\"2010\"}]},\r\n{\"name\":\"地区\",\"key\":\"area\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"大陆\",\"v\":\"大陆\"},{\"n\":\"香港\",\"v\":\"香港\"},{\"n\":\"台湾\",\"v\":\"台湾\"},{\"n\":\"米国\",\"v\":\"米国\"},{\"n\":\"韩国\",\"v\":\"韩国\"},{\"n\":\"日本\",\"v\":\"日本\"},{\"n\":\"泰国\",\"v\":\"泰国\"},{\"n\":\"新加坡\",\"v\":\"新加坡\"},{\"n\":\"马来西亚\",\"v\":\"马来西亚\"},{\"n\":\"印度\",\"v\":\"印度\"},{\"n\":\"英国\",\"v\":\"英国\"},{\"n\":\"法国\",\"v\":\"法国\"},{\"n\":\"加拿大\",\"v\":\"加拿大\"}]},\r\n{\"name\":\"排序\",\"key\":\"by\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"时间\",\"v\":\"time\"},{\"n\":\"人气\",\"v\":\"hits\"},{\"n\":\"评分\",\"v\":\"score\"}]}\r\n],\r\n\"2\": [\r\n{\"name\":\"类型\",\"key\":\"cateId\",\"value\":[{\"n\":\"全部\",\"v\":\"2\"},{\"n\":\"国产剧\",\"v\":\"12\"},{\"n\":\"港台剧\",\"v\":\"13\"},{\"n\":\"日韩剧\",\"v\":\"14\"},{\"n\":\"欧美剧\",\"v\":\"15\"}]},\r\n{\"name\":\"年份\",\"key\":\"year\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"2022\",\"v\":\"2022\"},{\"n\":\"2021\",\"v\":\"2021\"},{\"n\":\"2020\",\"v\":\"2020\"},{\"n\":\"2019\",\"v\":\"2019\"},{\"n\":\"2018\",\"v\":\"2018\"},{\"n\":\"2017\",\"v\":\"2017\"},{\"n\":\"2016\",\"v\":\"2016\"},{\"n\":\"2015\",\"v\":\"2015\"},{\"n\":\"2014\",\"v\":\"2014\"},{\"n\":\"2013\",\"v\":\"2013\"},{\"n\":\"2012\",\"v\":\"2012\"},{\"n\":\"2011\",\"v\":\"2011\"},{\"n\":\"2010\",\"v\":\"2010\"}]},\r\n{\"name\":\"地区\",\"key\":\"area\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"大陆\",\"v\":\"大陆\"},{\"n\":\"香港\",\"v\":\"香港\"},{\"n\":\"台湾\",\"v\":\"台湾\"},{\"n\":\"米国\",\"v\":\"米国\"},{\"n\":\"韩国\",\"v\":\"韩国\"},{\"n\":\"日本\",\"v\":\"日本\"},{\"n\":\"泰国\",\"v\":\"泰国\"},{\"n\":\"新加坡\",\"v\":\"新加坡\"},{\"n\":\"马来西亚\",\"v\":\"马来西亚\"},{\"n\":\"印度\",\"v\":\"印度\"},{\"n\":\"英国\",\"v\":\"英国\"},{\"n\":\"法国\",\"v\":\"法国\"},{\"n\":\"加拿大\",\"v\":\"加拿大\"}]},\r\n{\"name\":\"排序\",\"key\":\"by\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"时间\",\"v\":\"time\"},{\"n\":\"人气\",\"v\":\"hits\"},{\"n\":\"评分\",\"v\":\"score\"}]}\r\n],\r\n\"3\": [\r\n{\"name\":\"类型\",\"key\":\"cateId\",\"value\":[{\"n\":\"全部\",\"v\":\"3\"}]},\r\n{\"name\":\"年份\",\"key\":\"year\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"2022\",\"v\":\"2022\"},{\"n\":\"2021\",\"v\":\"2021\"},{\"n\":\"2020\",\"v\":\"2020\"},{\"n\":\"2019\",\"v\":\"2019\"},{\"n\":\"2018\",\"v\":\"2018\"},{\"n\":\"2017\",\"v\":\"2017\"},{\"n\":\"2016\",\"v\":\"2016\"},{\"n\":\"2015\",\"v\":\"2015\"},{\"n\":\"2014\",\"v\":\"2014\"},{\"n\":\"2013\",\"v\":\"2013\"},{\"n\":\"2012\",\"v\":\"2012\"},{\"n\":\"2011\",\"v\":\"2011\"},{\"n\":\"2010\",\"v\":\"2010\"}]},\r\n{\"name\":\"地区\",\"key\":\"area\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"大陆\",\"v\":\"大陆\"},{\"n\":\"香港\",\"v\":\"香港\"},{\"n\":\"台湾\",\"v\":\"台湾\"},{\"n\":\"米国\",\"v\":\"米国\"},{\"n\":\"韩国\",\"v\":\"韩国\"},{\"n\":\"日本\",\"v\":\"日本\"},{\"n\":\"泰国\",\"v\":\"泰国\"},{\"n\":\"新加坡\",\"v\":\"新加坡\"},{\"n\":\"马来西亚\",\"v\":\"马来西亚\"},{\"n\":\"印度\",\"v\":\"印度\"},{\"n\":\"英国\",\"v\":\"英国\"},{\"n\":\"法国\",\"v\":\"法国\"},{\"n\":\"加拿大\",\"v\":\"加拿大\"}]},\r\n{\"name\":\"排序\",\"key\":\"by\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"时间\",\"v\":\"time\"},{\"n\":\"人气\",\"v\":\"hits\"},{\"n\":\"评分\",\"v\":\"score\"}]}\r\n],\r\n\"4\": [\r\n{\"name\":\"类型\",\"key\":\"cateId\",\"value\":[{\"n\":\"全部\",\"v\":\"4\"},{\"n\":\"动漫剧\",\"v\":\"18\"},{\"n\":\"动漫片\",\"v\":\"19\"}]},\r\n{\"name\":\"年份\",\"key\":\"year\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"2022\",\"v\":\"2022\"},{\"n\":\"2021\",\"v\":\"2021\"},{\"n\":\"2020\",\"v\":\"2020\"},{\"n\":\"2019\",\"v\":\"2019\"},{\"n\":\"2018\",\"v\":\"2018\"},{\"n\":\"2017\",\"v\":\"2017\"},{\"n\":\"2016\",\"v\":\"2016\"},{\"n\":\"2015\",\"v\":\"2015\"},{\"n\":\"2014\",\"v\":\"2014\"},{\"n\":\"2013\",\"v\":\"2013\"},{\"n\":\"2012\",\"v\":\"2012\"},{\"n\":\"2011\",\"v\":\"2011\"},{\"n\":\"2010\",\"v\":\"2010\"}]},\r\n{\"name\":\"地区\",\"key\":\"area\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"大陆\",\"v\":\"大陆\"},{\"n\":\"香港\",\"v\":\"香港\"},{\"n\":\"台湾\",\"v\":\"台湾\"},{\"n\":\"米国\",\"v\":\"米国\"},{\"n\":\"韩国\",\"v\":\"韩国\"},{\"n\":\"日本\",\"v\":\"日本\"},{\"n\":\"泰国\",\"v\":\"泰国\"},{\"n\":\"新加坡\",\"v\":\"新加坡\"},{\"n\":\"马来西亚\",\"v\":\"马来西亚\"},{\"n\":\"印度\",\"v\":\"印度\"},{\"n\":\"英国\",\"v\":\"英国\"},{\"n\":\"法国\",\"v\":\"法国\"},{\"n\":\"加拿大\",\"v\":\"加拿大\"}]},\r\n{\"name\":\"排序\",\"key\":\"by\",\"value\":[{\"n\":\"全部\",\"v\":\"\"},{\"n\":\"时间\",\"v\":\"time\"},{\"n\":\"人气\",\"v\":\"hits\"},{\"n\":\"评分\",\"v\":\"score\"}]}\r\n]\r\n}}"},
-{"key": "csp_xp_dmw","name": "动漫岛", "type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/" },
 {"key":"率率","name":"率率┃直连","type":1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":1,"categories":["国产剧","韩剧","日剧","港剧","台剧","动作片","喜剧片","爱情片","科幻片","战争片","恐怖片","剧情片","国产动漫","日韩动漫","欧美动漫","大陆综艺","日韩综艺"]},
 {"key":"无尽","name":"无尽","type":1,"api":"https://api.wujinapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"快车资源","name":"快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -103,22 +99,8 @@
             },
             "jar": "./jars/玩偶.jar"
         },
-        {
-            "key": "厂长资源",
-            "name": "厂长┃影视",
-            "type": 3,
-            "api": "./api/czzy_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "快看",
-            "name": "快看1┃影视",
-            "type": 3,
-            "api": "./api/kkys_open.js",
-            "searchable": 1,
-            "changeable": 1
-        },
+       
+       
         {
             "key": "快看影视",
             "name": "快看2┃影视",
@@ -173,15 +155,7 @@
             "changeable": 1,
             "ext": "./js/ddys.js"
         },
-        {
-            "key": "YQK_spider",
-            "name": "一起看┃影视",
-            "api": "csp_YQKAPP",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://api-aws.11ty.top"
-        },
+       
         {
             "key": "鲲娱七七",
             "name": "七七┃影视",
@@ -200,14 +174,7 @@
             "changeable": 1,
             "ext": "./js/两个BT.js"
         },
-        {
-            "key": "明明",
-            "name": "明明┃影视",
-            "type": 3,
-            "api": "csp_AppMr",
-            "searchable": 1,
-            "changeable": 1
-        },
+       
         {
             "key": "LIBVIO影视",
             "name": "LIBVIO┃影视",
@@ -226,24 +193,8 @@
             "changeable": 1,
             "ext": "./json/乐猪TV.json"
         },
-        {
-            "key": "饭团影视",
-            "name": "饭团┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/饭团影视.js"
-        },
-        {
-            "key": "Auete影视",
-            "name": "Auete┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/Auete.js"
-        },
+        
+       
         {
             "key": "Dm84",
             "name": "动漫┃巴士",
@@ -285,30 +236,7 @@
             "changeable": 1,
             "ext": "./js/cokemv.js"
         },
-        {
-            "key": "csp_DuoX",
-            "name": "多线┃影视",
-            "type": 3,
-            "api": "csp_DuoX",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "陌陌",
-            "name": "陌陌┃影视",
-            "type": 3,
-            "api": "csp_MmYs",
-            "searchable": 1,
-            "changeable": 1
-        },
-        {
-            "key": "探探",
-            "name": "探探┃影视",
-            "type": 3,
-            "api": "csp_YT",
-            "searchable": 1,
-            "changeable": 1
-        },
+       
         {
             "key": "新视觉影院",
             "name": "新视觉┃影视",
@@ -327,15 +255,7 @@
             "changeable": 1,
             "ext": "./js/农民影视.js"
         },
-        {
-            "key": "双十电影",
-            "name": "双十┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/双十电影.js"
-        },
+       
         {
             "key": "VOFLIX",
             "name": "VOFLIX┃影视",
@@ -399,15 +319,7 @@
             "changeable": 1,
             "ext": "./js/4K电影网.js"
         },
-        {
-            "key": "539影视",
-            "name": "539┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/539影视.js"
-        },
+      
         {
             "key": "58动漫网",
             "name": "58┃影视",
@@ -426,15 +338,7 @@
             "changeable": 1,
             "ext": "./js/69美剧[V2].js"
         },
-        {
-            "key": "7喜影院",
-            "name": "7喜┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/7喜影院.js"
-        },
+        
         {
             "key": "8号影院",
             "name": "8号┃影视",
@@ -444,15 +348,7 @@
             "changeable": 1,
             "ext": "./js/8号影院.js"
         },
-        {
-            "key": "91影院",
-            "name": "91┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/91free.js"
-        },
+        
         {
             "key": "9u电影",
             "name": "9u┃影视",
@@ -534,15 +430,7 @@
             "changeable": 1,
             "ext": "./js/NY影院.js"
         },
-        {
-            "key": "NyaFun",
-            "name": "NyaFun┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/NyaFun.js"
-        },
+       
         {
             "key": "TVB云播",
             "name": "TVB┃影视",
@@ -552,15 +440,7 @@
             "changeable": 1,
             "ext": "./js/TVB云播.js"
         },
-        {
-            "key": "UM影院",
-            "name": "UM┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/UM电影.js"
-        },
+        
         {
             "key": "iKanBot",
             "name": "iKan┃影视",
@@ -579,34 +459,7 @@
             "changeable": 1,
             "ext": "./js/l0l.js"
         },
-        {
-            "key": "七年影视",
-            "name": "七年┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/七年影视.js"
-        },
-        {
-            "key": "万博剧院",
-            "name": "万博┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/万博剧院.js"
-        },
-        {
-            "key": "万能影院",
-            "name": "万能┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/万能影视.js"
-        },
-        {
+       {
             "key": "乐鱼影视",
             "name": "乐鱼┃影视",
             "type": 3,
@@ -651,15 +504,7 @@
             "changeable": 1,
             "ext": "./js/免费看.js"
         },
-        {
-            "key": "八蛋影视",
-            "name": "八蛋┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/八蛋影视.js"
-        },
+       
         {
             "key": "六度TV",
             "name": "六度┃影视",
@@ -669,15 +514,7 @@
             "changeable": 1,
             "ext": "./js/六度TV.js"
         },
-        {
-            "key": "兰花影院",
-            "name": "兰花┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/兰花影院.js"
-        },
+        
         {
             "key": "凌云影视",
             "name": "凌云┃影视",
@@ -696,15 +533,7 @@
             "changeable": 1,
             "ext": "./js/创艺影视.js"
         },
-        {
-            "key": "Gimy剧迷ai",
-            "name": "剧迷ai┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/剧迷.js"
-        },
+       
         {
             "key": "Gimy剧迷su",
             "name": "剧迷su┃影视",
@@ -714,15 +543,7 @@
             "changeable": 1,
             "ext": "./js/剧迷su.js"
         },
-        {
-            "key": "动漫岛",
-            "name": "岛┃动漫",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/动漫岛.js"
-        },
+       
         {
             "key": "北川影视",
             "name": "北川┃影视",
@@ -759,15 +580,7 @@
             "changeable": 1,
             "ext": "./js/嘶哩嘶哩.js"
         },
-        {
-            "key": "野荷塘",
-            "name": "野荷塘┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./json/野荷塘.json"
-        },
+        
         {
             "key": "素白白影视",
             "name": "素白白┃影视",
@@ -777,33 +590,7 @@
             "changeable": 1,
             "ext": "./json/素白白影视.json"
         },
-        {
-            "key": "莫扎兔",
-            "name": "莫扎兔┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./json/莫扎兔.json"
-        },
-        {
-            "key": "干饭影视",
-            "name": "干饭┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./json/干饭影视.json"
-        },
-        {
-            "key": "看一看影视",
-            "name": "看一看┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./json/看一看影视.json"
-        },
+       
         {
             "key": "奇优影院",
             "name": "奇优┃影视",
@@ -953,24 +740,7 @@
             "changeable": 0,
             "ext": "./js/JangoIndex.js"
         },
-        {
-            "key": "MV263",
-            "name": "🎵MV263┃MV",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./js/MV263.js"
-        },
-        {
-            "key": "啦啦DJ音乐网",
-            "name": "🎵啦啦DJ┃音乐",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./js/啦啦DJ.js"
-        },
+       
         {
             "key": "短视频",
             "name": "短视频┃聚合",
@@ -980,14 +750,7 @@
             "changeable": 0,
             "ext": "./json/短视频.json"
         },
-        {
-            "key": "MV_vod",
-            "name": "🎵明星┃MV",
-            "type": 1,
-            "api": "https://mv.饭太硬.ml/mv/vod",
-            "searchable": 0,
-            "changeable": 0
-        },
+        
         {
             "key": "酷奇MV",
             "name": "🎵酷奇┃MV",
@@ -1078,14 +841,7 @@
             "changeable": 0,
             "ext": "./js/JustLive.js"
         },
-        {
-            "key": "网红直播",
-            "name": "网红┃直播",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "searchable": 0,
-            "changeable": 0
-        },
+       
         {
             "key": "js虎牙",
             "name": "虎牙┃直播",
@@ -1095,15 +851,7 @@
             "changeable": 0,
             "ext": "./js/虎牙直播.js"
         },
-        {
-            "key": "csp_XYQBiu_斗鱼",
-            "name": "斗鱼┃直播",
-            "type": 3,
-            "api": "csp_XYQBiu",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./json/斗鱼直播.json"
-        },
+       
         {
             "key": "企鹅体育",
             "name": "企鹅┃体育",
@@ -1122,15 +870,7 @@
             "changeable": 0,
             "ext": "./js/310直播.js"
         },
-        {
-            "key": "JRKAN直播",
-            "name": "⚽JRKAN┃看球",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./js/JRKAN直播.js"
-        },
+        
         {
             "key": "七夜",
             "name": "七夜┃云盘",
