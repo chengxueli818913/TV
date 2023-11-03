@@ -59,7 +59,39 @@
 {"key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-        {
+{"key":"小姐姐资源站","name":"小姐姐资源站","type":1,"api":"https://xjjzyapi.com/cjapi/sda/vod/json.html","searchable":1,"quickSearch":1},
+  {"key":KK资源","name":"KK资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+  {"key":"伊人资源","name":"伊人资源","type":1,"api":"https://api.yrzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1},
+  {"key":"kd","name":"酷豆","type":0,"api":"https://api.kdapi.info/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"kulunli","name":"酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "timizy","name": "甜蜜资源 ","type": 1,"api": "https://timizy10.cc/api.php/provide/vod/?ac=list","searchable": 1,"changeable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "奥斯卡资源网","name": "奥斯卡资源网","type": 1,"api": "https://aosikazy.com/api.php/provide/vod/"},
+{"key":"apilj.com","name":"成人01","type":1,"api":"http://apilj.com/api.php/provide/vod/at/json/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"dadiapi.com","name":"成人02","type":0,"api":"http://dadiapi.com/api.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"91md.me","name":"成人03","type":1,"api":"http://91md.me/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"jcspcj8.com","name":"成人04","type":0,"api":"http://jcspcj8.com/api?ac=videolist","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"bttcj.com","name":"成人05","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"cjmygzy.com","name":"成人06","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"api.sexnguon.com","name":"成人07","type":1,"api":"http://api.sexnguon.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"feifei67.com","name":"成人08","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"llzxcj.com","name":"成人09","type":0,"api":"http://llzxcj.com/inc/sck.php?ac=videolist","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"f2dcj6.com","name":"成人10","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"ggmmzy.com","name":"成人11","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"fhapi9.com","name":"成人12","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"madouse.la","name":"成人13","type":1,"api":"http://madouse.la/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"lbapiby.com","name":"成人14","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"api.maozyapi.com","name":"成人15","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"msnii.com","name":"成人16","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"gdlsp.com","name":"成人17","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"caiji.huakuiapi.com","name":"成人18","type":1,"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"kxgav.com","name":"成人19","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"xrbsp.com","name":"成人20","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"pgxdy.com","name":"成人21","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"afasu.com","name":"成人22","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"kkzy.me","name":"成人23","type":1,"api":"https://kkzy.me/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"888dav.com","name":"成人24","type":1,"api":"https://www.888dav.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"apittzy.com","name":"成人25","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
+{"key":"lbapi9.com","name":"成人26","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},       {
             "key": "360影视",
             "name": "360┃官源",
             "type": 3,
@@ -933,47 +965,8 @@
             "searchable": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
-        },
-        {
-            "key": "公告",
-            "name": "——————————",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "说明1",
-            "name": "菜妮丝",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "说明2",
-            "name": "https://cainisi.cf",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "说明3",
-            "name": "免费接口更新维护",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "changeable": 0
-        },
-        {
-            "key": "说明4",
-            "name": "请勿相信视频中任何广告",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "changeable": 0
         }
+        
     ],
     "parses": [
         {
