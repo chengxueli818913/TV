@@ -1,6 +1,8 @@
 {
   "spider": "https://tvbox.cainisi.cf/jar/fty1214.jar",
-"sites": [
+
+
+ "sites": [
 { "key": "csp_xBPQ_奇优","name": "奇优影视","type": 3,"api": "csp_XBPQ","searchable": 1,
  "quickSearch": 1,"filterable": 1,"ext": "./json/奇优影视.json"},
  {"key": "csp_Free","name": "Free影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/FreeOK.json"},
