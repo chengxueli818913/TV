@@ -1,8 +1,8 @@
 {
-  "spider": "https://fm.t4tv.hz.cz/jar/custom_spider.jar;md5;d793cc92ea62550b731392d15bacb859",
+  "spider": "https://raw.githubusercontent.com/chengxueli818913/TV/main/spider.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
-    { "key": "csp_xBPQ_奇优","name": "奇优影视","type": 3,"api": "csp_XBPQ","searchable": 1,
+    { "key": "csp_xBPQ_奇优","name": "优影视","type": 3,"api": "csp_XBPQ","searchable": 1,
  "quickSearch": 1,"filterable": 1,"ext": "./json/奇优影视.json"},
  {"key": "csp_Free","name": "Free影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/FreeOK.json"},
 {"key": "csp_七月","name": "七月影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/柒月影视.json"},
