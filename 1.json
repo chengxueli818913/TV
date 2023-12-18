@@ -1,5 +1,5 @@
 {
-  "spider": http://gg.gg/18344u",
+  "spider": https://mirror.ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/TV/main/spider.jar",
 "sites": [
 { "key": "csp_xBPQ_奇优","name": "奇优影视","type": 3,"api": "csp_XBPQ","searchable": 1,
  "quickSearch": 1,"filterable": 1,"ext": "./json/奇优影视.json"},
