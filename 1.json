@@ -7,7 +7,6 @@
  {"key": "csp_Free","name": "Free影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/FreeOK.json"},
 {"key": "csp_七月","name": "七月影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/柒月影视.json"},
  {"key": "csp_兔年","name": "yyds","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/YYDS影视.json"},
-{"key": "csp_xBPQ_66","name": "66影院","type": 3,"api": "csp_XBPQ","searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "./json/66影院.json"}, 
 {"key": "csp_黑狐","name": "黑狐影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/黑狐影院.json" },
 { "key": "csp_臭蛋","name": "臭蛋蛋影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "./json/臭蛋蛋影视.json" },
 {"key": "csp_米爱","name": "米爱影视","type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "./json/米爱影院.json"},
@@ -29,22 +28,11 @@
 {"key":"xml_火狐","name":"火狐影视","type":1,"style":{"type":"rect","ratio":0.8},"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]},
 {"key": "Czsapp","name": "厂长","type": 3,"api": "csp_Czsapp", "playerType": 2, "searchable": 1, "quickSearch": 1,"changeable": 1, "ext": "https://www.czzy55.com/"},   
   {"key":"飞速","name":"飞速资源","type":1,"api":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":0,"categories":["国产动漫","日本动漫","欧美动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","欧美剧","韩国剧","台湾剧","日本剧","泰国剧","纪录片","动画片","电影解说","其他片","其他剧","体育赛事","短剧"]},
-{"key":"奇虎","name":"奇虎资源","type":1,"api":"https://caiji.qhzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","伦理片","纪录片","国产剧","香港剧","韩国剧","欧美剧","日本剧","台湾剧","泰国剧","海外剧","国产动漫","日本动漫","欧美动漫","大陆综艺","港台综艺","欧美综艺","日韩综艺","动画片","体育","短剧","网络电影"]},
 {"key":"淘片","name":"淘片资源","type":1,"api":"https://taopianapi.com/cjapi/mc/vod/json.html","searchable":1,"filterable":0,"categories":["动漫/国产动漫","动漫/日本动漫","动漫/欧美动漫","动漫/海外动漫","综艺/大陆综艺","综艺/港台综艺","综艺/日韩综艺","综艺/欧美综艺","综艺/海外综艺","电视剧/国产剧","电视剧/香港剧","电视剧/欧美剧","电视剧/海外剧","电视剧/韩国剧","电视剧/日本剧","电视剧/泰国剧","电视剧/台湾剧","电影/战争片","电影/科幻片","电影/奇幻片","电影/冒险片","电影/动画片","电影/喜剧片","电影/动作片","电影/爱情片","电影/恐怖片","电影/惊悚片","电影/剧情片","电影/悬疑片","电影/纪录片"]},
- {"key":"无尽","name":"无尽","type":1,"api":"https://api.wujinapi.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"快车资源","name":"快车资源","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"量子资源","name":"量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"红牛资源","name":"红牛资源","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"飞速资源","name":"飞速资源)","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"光速资源","name":"光速资源","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"韩剧资源","name":"韩剧资源","type":1,"api":"http://www.hanjuzy.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-{"key":"U酷资源","name":"U酷资源","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"八戒资源","name":"八戒资源","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"天空资源","name":"天空资源","type":1,"api":"http://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"天堂资源","name":"天堂资源","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-{"key":"百度资源","name":"百度资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 
         {
             "key": "豆瓣",
@@ -105,16 +93,7 @@
         },
        
         
-        {
-            "key": "两个BT",
-            "name": "两个BT┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/两个BT.js"
-        },
-       
+      
        
        
         
@@ -185,42 +164,7 @@
             "ext": "./js/4K电影网.js"
         },
       
-       
-        {
-            "key": "9u电影",
-            "name": "9u┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/9U电影.js"
-        },
-        
-        {
-            "key": "B站影视",
-            "name": "B站┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/B站影视.js"
-        },
-       
-       
-        {
-            "key": "Icio影视",
-            "name": "Icio┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/Icio影视.js"
-        },
-       
-       
-      
-      
-        {
+      {
             "key": "人人影视",
             "name": "人人┃影视",
             "type": 3,
@@ -323,16 +267,7 @@
             "ext": "./json/APP影院.json"
         },
         
-        {
-            "key": "52看剧",
-            "name": "52┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./json/52看剧.json"
-        },
-       
+     
         {
             "key": "手机影院",
             "name": "手机影院",
