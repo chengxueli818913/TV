@@ -9,7 +9,6 @@
  {"key": "csp_Free","name": "Free影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/FreeOK.json"},
 {"key": "csp_七月","name": "七月影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/柒月影视.json"},
  {"key": "csp_兔年","name": "yyds","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/YYDS影视.json"},
-{"key": "csp_xBPQ_66","name": "66影院","type": 3,"api": "csp_XBPQ","searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "./json/66影院.json"}, 
 {"key": "csp_黑狐","name": "黑狐影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/黑狐影院.json" },
 { "key": "csp_臭蛋","name": "臭蛋蛋影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "./json/臭蛋蛋影视.json" },
 {"key": "csp_米爱","name": "米爱影视","type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1,"filterable": 1,"ext": "./json/米爱影院.json"},
