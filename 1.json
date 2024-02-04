@@ -31,511 +31,58 @@
 {"key":"天空资源","name":"天空资源","type":1,"api":"http://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key": "77","name": "七七","type": 3, "api": "csp_Kunyu77",  "searchable": 1,"quickSearch": 1,"changeable": 1},  
-        {
-            "key": "豆瓣",
-            "name": "豆瓣┃推荐",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./js/drpy.js"
-        },
-        {
-            "key": "荐片",
-            "name": "荐片┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/荐片.js"
-        },
-        
-       
-        {
-            "key": "磁力熊",
-            "name": "🧲磁力熊",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/磁力熊[磁].js"
-        },
-        {
-            "key": "6v电影",
-            "name": "🧲6v电影",
-            "type": 3,
-            "api": "csp_SixV",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "http://www.xb6v.com/"
-        },
-        {
-            "key": "电影港",
-            "name": "🧲电影港",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./json/电影港磁力.json",
-            "jar": "./jars/电影港.jar"
-        },
-        {
-            "key": "低端影视",
-            "name": "低端┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/ddys.js"
-        },
-       
-        
-      
-       
-       
-        
-       
-        {
-            "key": "Dm84",
-            "name": "动漫┃巴士",
-            "type": 3,
-            "api": "csp_Dm84",
-            "searchable": 1,
-            "changeable": 1
-        },
-        
-      {
-            "key": "新视觉影院",
-            "name": "新视觉┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/新视觉影视.js"
-        },
-        {
-            "key": "农民影视",
-            "name": "农民┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/农民影视.js"
-        },
-       
-        {
-            "key": "VOFLIX",
-            "name": "VOFLIX┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/voflix.js"
-        },
-        {
-            "key": "在线之家",
-            "name": "在线┃影视",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://www.zxzjhd.com/"
-        },
-       
-       {
-            "key": "348电影网",
-            "name": "348┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/348电影网.js"
-        },
-        {
-            "key": "4K电影网",
-            "name": "4K┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/4K电影网.js"
-        },
-      
-      {
-            "key": "人人影视",
-            "name": "人人┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/人人影视.js"
-        },
-        
-        {
-            "key": "光棍影院",
-            "name": "光棍┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/光棍影院.js"
-        },
-        {
-            "key": "免费看影视",
-            "name": "免费看┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/免费看.js"
-        },
-       
-        {
-            "key": "六度TV",
-            "name": "六度┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/六度TV.js"
-        },
-        
-        {
-            "key": "凌云影视",
-            "name": "凌云┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/凌云影视.js"
-        },
-        
-       
-        
-       
-        {
-            "key": "北川影视",
-            "name": "北川┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/北川影视.js"
-        },
-       
-        {
-            "key": "咕噜[V2]",
-            "name": "咕噜┃影视",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/咕噜[V2].js"
-        },
-        
-        
-        {
-            "key": "素白白影视",
-            "name": "素白白┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./json/素白白影视.json"
-        },
-       
-        {
-            "key": "冷曦影视",
-            "name": "冷曦┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./json/冷曦影视.json"
-        },
-       
-        {
-            "key": "APP影院",
-            "name": "APP┃影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./json/APP影院.json"
-        },
-        
-     
-        {
-            "key": "手机影院",
-            "name": "手机影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./json/手机影院.json",
-            "jar": "./jars/手机影院.jar"
-        },
-        {
-            "key": "csp_Nbys",
-            "name": "🛫泥巴┃海外",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./jars/玩偶.jar"
-        },
-        {
-            "key": "星星",
-            "name": "🛫星星┃海外",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "./jars/玩偶.jar"
-        },
-        {
-            "key": "唐人街影院",
-            "name": "🛫唐人街┃海外",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/唐人街影视[飞].js"
-        },
-        {
-            "key": "吼吼",
-            "name": "🛫吼吼┃海外",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/吼吼[飞].js"
-        },
-        {
-            "key": "A8音乐",
-            "name": "🎵A8┃MV",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./js/A8音乐.js"
-        },
-        {
-            "key": "DJ哟哟音乐网",
-            "name": "🎵DJ哟哟┃音乐",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./js/DJ音乐.js"
-        },
-        {
-            "key": "Jango",
-            "name": "🎵Jango┃音乐",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./js/JangoIndex.js"
-        },
-       
-        {
-            "key": "短视频",
-            "name": "短视频┃聚合",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./json/短视频.json"
-        },
-        
-        {
-            "key": "酷奇MV",
-            "name": "🎵酷奇┃MV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./json/酷奇MV.json"
-        },
-        {
-            "key": "csp_BBB",
-            "name": "🅱哔哩┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./json/哔哩哔哩合集.json"
-        },
-        {
-            "key": "csp_戏曲",
-            "name": "🅱哔哩┃戏曲",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./json/哔哩哔哩戏曲.json"
-        },
-        {
-            "key": "演唱会",
-            "name": "🅱哔哩┃音乐",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./json/哔哩哔哩音乐.json"
-        },
-        {
-            "key": "兔小贝",
-            "name": "📚儿童┃启蒙",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./js/兔小贝.js"
-        },
-        {
-            "key": "儿童",
-            "name": "📚少儿┃教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./json/哔哩哔哩少儿.json"
-        },
-        {
-            "key": "小学",
-            "name": "📚小学┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./json/哔哩哔哩小学.json"
-        },
-        {
-            "key": "初中",
-            "name": "📚初中┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./json/哔哩哔哩初中.json"
-        },
-        {
-            "key": "高中",
-            "name": "📚高中┃课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./json/哔哩哔哩高中.json"
-        },
-        {
-            "key": "JustLive",
-            "name": "Just┃直播",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./js/JustLive.js"
-        },
-       
-        {
-            "key": "js虎牙",
-            "name": "虎牙┃直播",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./js/虎牙直播.js"
-        },
-       
-        {
-            "key": "企鹅体育",
-            "name": "企鹅┃体育",
-            "type": 3,
-            "api": "csp_XPath",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./json/企鹅体育.json"
-        },
-        {
-            "key": "310直播",
-            "name": "⚽310┃看球",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 0,
-            "changeable": 0,
-            "ext": "./js/310直播.js"
-        },
-        
-        {
-            "key": "七夜",
-            "name": "七夜┃云盘",
-            "type": 3,
-            "api": "csp_Dovx",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
-        },
-        {
-            "key": "PanSearch",
-            "name": "Search┃云盘",
-            "type": 3,
-            "api": "csp_PanSearch",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
-        },
-        {
-            "key": "csp_search_Yisou",
-            "name": "易搜┃云盘",
-            "type": 3,
-            "api": "csp_YiSo",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
-        },
-        {
-            "key": "csp_search_Zhaozy",
-            "name": "找资源┃云盘",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
-        },
-        {
-            "key": "csp_search_Upyunso",
-            "name": "Up搜┃云盘",
-            "type": 3,
-            "api": "csp_UpYun",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
-        },
-        {
-            "key": "csp_search_Alips",
-            "name": "盘搜┃云盘",
-            "type": 3,
-            "api": "csp_PanSou",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
-        },
-        {
-            "key": "push_agent",
-            "name": "推送┃磁力",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
-        }
+ {"key": "豆瓣","name": "豆瓣┃推荐","type": 3,"api": "./api/drpy2.min.js", "searchable": 0, "changeable": 0, "ext": "./js/drpy.js"},
+{"key": "荐片", "name": "荐片┃影视", "type": 3,"api": "./api/drpy2.min.js", "searchable": 1,"changeable": 1,"ext": "./js/荐片.js"},
+{"key": "磁力熊", "name": "🧲磁力熊","type": 3,"api": "./api/drpy2.min.js", "searchable": 1, "changeable": 1,"ext": "./js/磁力熊[磁].js"},
+{"key": "6v电影","name": "🧲6v电影", "type": 3,"api": "csp_SixV","searchable": 1,"changeable": 1,"ext": "http://www.xb6v.com/"},
+{"key": "电影港", "name": "🧲电影港","type": 3, "api": "csp_XYQHiker","searchable": 1, "changeable": 1, "ext": "./json/电影港磁力.json", "jar": "./jars/电影港.jar"},
+{"key": "低端影视","name": "低端┃影视", "type": 3, "api": "./api/drpy2.min.js", "searchable": 1, "changeable": 1, "ext": "./js/ddys.js"},
+{ "key": "Dm84", "name": "动漫┃巴士", "type": 3,"api": "csp_Dm84", "searchable": 1,"changeable": 1 },
+{"key": "新视觉影院", "name": "新视觉┃影视", "type": 3, "api": "./api/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./js/新视觉影视.js"},
+{"key": "农民影视","name": "农民┃影视","type": 3, "api": "./api/drpy2.min.js","searchable": 1, "changeable": 1, "ext": "./js/农民影视.js" },
+{"key": "VOFLIX", "name": "VOFLIX┃影视","type": 3,"api": "./api/drpy2.min.js", "searchable": 1,"changeable": 1,"ext": "./js/voflix.js"},
+{"key": "在线之家","name": "在线┃影视","type": 3,"api": "csp_Zxzj","searchable": 1,"changeable": 1, "ext": "https://www.zxzjhd.com/"},
+{"key": "348电影网","name": "348┃影视", "type": 3, "api": "./api/drpy2.min.js", "searchable": 1,"changeable": 1,"ext": "./js/348电影网.js"},
+{"key": "4K电影网","name": "4K┃影视","type": 3, "api": "./api/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./js/4K电影网.js"},
+{"key": "人人影视","name": "人人┃影视", "type": 3,"api": "./api/drpy2.min.js", "searchable": 1,"changeable": 1, "ext": "./js/人人影视.js"},
+{"key": "光棍影院","name": "光棍┃影视", "type": 3,"api": "./api/drpy2.min.js", "searchable": 1,"changeable": 1,"ext": "./js/光棍影院.js"},
+{"key": "免费看影视","name": "免费看┃影视","type": 3,"api": "./api/drpy2.min.js", "searchable": 1, "changeable": 1,"ext": "./js/免费看.js"},
+{"key": "六度TV","name": "六度┃影视", "type": 3,"api": "./api/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./js/六度TV.js"},
+{"key": "凌云影视","name": "凌云┃影视","type": 3, "api": "./api/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./js/凌云影视.js"},
+{"key": "北川影视","name": "北川┃影视","type": 3,"api": "./api/drpy2.min.js", "searchable": 1, "changeable": 1,"ext": "./js/北川影视.js" },
+ {"key": "咕噜[V2]", "name": "咕噜┃影视", "type": 3,"api": "./api/drpy2.min.js","searchable": 1, "changeable": 1, "ext": "./js/咕噜[V2].js"},
+{"key": "素白白影视", "name": "素白白┃影视","type": 3,"api": "csp_XBPQ", "searchable": 1,"changeable": 1, "ext": "./json/素白白影视.json"},
+{"key": "冷曦影视", "name": "冷曦┃影视","type": 3,"api": "csp_XBPQ", "searchable": 1, "changeable": 1, "ext": "./json/冷曦影视.json"},
+{"key": "APP影院","name": "APP┃影视","type": 3,"api": "csp_XBPQ", "searchable": 1,"changeable": 1, "ext": "./json/APP影院.json"},
+{"key": "手机影院","name": "手机影院", "type": 3, "api": "csp_XBPQ","searchable": 1,"changeable": 1, "ext": "./json/手机影院.json", "jar": "./jars/手机影院.jar"},
+{"key": "csp_Nbys", "name": "🛫泥巴┃海外", "type": 3,"api": "csp_NiNi", "searchable": 1, "changeable": 1,"jar": "./jars/玩偶.jar"},
+{ "key": "星星", "name": "🛫星星┃海外", "type": 3,"api": "csp_Star","searchable": 1, "changeable": 1, "jar": "./jars/玩偶.jar"},
+{ "key": "唐人街影院", "name": "🛫唐人街┃海外","type": 3, "api": "./api/drpy2.min.js","searchable": 1, "changeable": 1, "ext": "./js/唐人街影视[飞].js"},
+{"key": "吼吼","name": "🛫吼吼┃海外", "type": 3, "api": "./api/drpy2.min.js", "searchable": 1,"changeable": 1,"ext": "./js/吼吼[飞].js"},
+{ "key": "A8音乐","name": "🎵A8┃MV", "type": 3, "api": "./api/drpy2.min.js","style": { "type": "rect","ratio": 1.597},"searchable": 0, "changeable": 0, "ext": "./js/A8音乐.js"},
+{"key": "DJ哟哟音乐网", "name": "🎵DJ哟哟┃音乐", "type": 3, "api": "./api/drpy2.min.js","searchable": 0,"changeable": 0,"ext": "./js/DJ音乐.js" },
+{ "key": "Jango","name": "🎵Jango┃音乐", "type": 3,"api": "./api/drpy2.min.js","searchable": 0, "changeable": 0, "ext": "./js/JangoIndex.js"},
+{"key": "短视频","name": "短视频┃聚合", "type": 3, "api": "csp_XBPQ","searchable": 0,"changeable": 0,"ext": "./json/短视频.json"},
+{"key": "酷奇MV", "name": "🎵酷奇┃MV","type": 3,"api": "csp_XBPQ","searchable": 0,"changeable": 0,"ext": "./json/酷奇MV.json"},
+{"key": "csp_BBB", "name": "🅱哔哩┃合集", "type": 3, "api": "csp_Bili","searchable": 0,"changeable": 0,"ext": "./json/哔哩哔哩合集.json"},
+{"key": "csp_戏曲","name": "🅱哔哩┃戏曲", "type": 3, "api": "csp_Bili","searchable": 0,"changeable": 0,"ext": "./json/哔哩哔哩戏曲.json"},
+{"key": "演唱会","name": "🅱哔哩┃音乐", "type": 3, "api": "csp_Bili","searchable": 0, "changeable": 0,"ext": "./json/哔哩哔哩音乐.json"},
+{"key": "兔小贝", "name": "📚儿童┃启蒙", "type": 3, "api": "./api/drpy2.min.js", "searchable": 0, "changeable": 0,"ext": "./js/兔小贝.js" },
+{"key": "儿童","name": "📚少儿┃教育","type": 3, "api": "csp_Bili", "searchable": 0, "changeable": 0, "ext": "./json/哔哩哔哩少儿.json" },
+{"key": "小学","name": "📚小学┃课堂","type": 3, "api": "csp_Bili", "searchable": 0, "changeable": 0, "ext": "./json/哔哩哔哩小学.json" },
+{"key": "初中","name": "📚初中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"changeable": 0,"ext": "./json/哔哩哔哩初中.json"},
+{"key": "高中","name": "📚高中┃课堂", "type": 3, "api": "csp_Bili", "searchable": 0,"changeable": 0, "ext": "./json/哔哩哔哩高中.json"},
+{ "key": "JustLive", "name": "Just┃直播","type": 3, "api": "./api/drpy2.min.js", "searchable": 0,"changeable": 0, "ext": "./js/JustLive.js"},
+{"key": "js虎牙", "name": "虎牙┃直播", "type": 3,"api": "./api/drpy2.min.js","searchable": 0, "changeable": 0, "ext": "./js/虎牙直播.js"},
+{ "key": "企鹅体育","name": "企鹅┃体育","type": 3,"api": "csp_XPath", "searchable": 0,"changeable": 0, "ext": "./json/企鹅体育.json"},
+{"key": "310直播","name": "⚽310┃看球","type": 3, "api": "./api/drpy2.min.js","searchable": 0,"changeable": 0, "ext": "./js/310直播.js"},
+{"key": "七夜", "name": "七夜┃云盘", "type": 3, "api": "csp_Dovx","searchable": 1,"changeable": 0, "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"},
+{"key": "PanSearch","name": "Search┃云盘", "type": 3, "api": "csp_PanSearch","searchable": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"},
+{"key": "csp_search_Yisou", "name": "易搜┃云盘", "type": 3,"api": "csp_YiSo","searchable": 1,"changeable": 0, "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"},
+{"key": "csp_search_Zhaozy", "name": "找资源┃云盘","type": 3, "api": "csp_Zhaozy", "searchable": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"},
+{"key": "csp_search_Upyunso","name": "Up搜┃云盘", "type": 3, "api": "csp_UpYun","searchable": 1, "changeable": 0,"ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"},
+{"key": "csp_search_Alips","name": "盘搜┃云盘", "type": 3, "api": "csp_PanSou","searchable": 1,"changeable": 0, "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto" },
+{"key": "push_agent","name": "推送┃磁力","type": 3,"api": "csp_Push","searchable": 1, "changeable": 0,"ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto" }
         
     ],
     "parses": [
