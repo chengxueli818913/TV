@@ -51,6 +51,7 @@
 {"key": "电影港", "name": "🧲电影港","type": 3, "api": "csp_XYQHiker","searchable": 1, "changeable": 1, "ext": "./json/电影港磁力.json", "jar": "./jars/电影港.jar"},
 {"key": "低端影视","name": "低端┃影视", "type": 3, "api": "./api/drpy2.min.js", "searchable": 1, "changeable": 1, "ext": "./js/ddys.js"},
 {"key": "两个BT","name": "两个BT┃影视","type": 3, "api": "./api/drpy2.min.js","searchable": 1,"changeable": 1, "ext": "./js/两个BT.js" },
+{"key": "六度TV","name": "六度┃影视", "type": 3,"api": "./api/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./js/六度TV.js"},
 { "key": "Dm84", "name": "动漫┃巴士", "type": 3,"api": "csp_Dm84", "searchable": 1,"changeable": 1 },
 {"key": "新视觉影院", "name": "新视觉┃影视", "type": 3, "api": "./api/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./js/新视觉影视.js"},
 {"key": "农民影视","name": "农民┃影视","type": 3, "api": "./api/drpy2.min.js","searchable": 1, "changeable": 1, "ext": "./js/农民影视.js" },
