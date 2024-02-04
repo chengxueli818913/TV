@@ -1,10 +1,7 @@
 {
  "spider": "./spider.jar",
 
- "sites": [{ "key": "Xinsj", "name": "视觉", "type": 3,"api": "csp_Xinsj", "searchable": 1,"quickSearch": 1, "changeable": 1,"ext": "https://www.hdmyy.com/"},   
- {"key": "77","name": "七七","type": 3, "api": "csp_Kunyu77",  "searchable": 1,"quickSearch": 1,"changeable": 1},  
-  { "key": "毛驴", "name": "毛驴",  "type": 3,"api": "csp_MLYS", "searchable": 1,"quickSearch": 1, "changeable": 1,"ext": "https://www.maolvys.com/"    },  
- {"key": "csp_Free","name": "Free影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/FreeOK.json"},
+ "sites": [ {"key": "csp_Free","name": "Free影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/FreeOK.json"},
 {"key": "csp_七月","name": "七月影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/柒月影视.json"},
  {"key": "csp_兔年","name": "yyds","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/YYDS影视.json"},
 {"key": "csp_黑狐","name": "黑狐影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/黑狐影院.json" },
@@ -33,7 +30,7 @@
 {"key":"八戒资源","name":"八戒资源","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"天空资源","name":"天空资源","type":1,"api":"http://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
 {"key":"闪电资源","name":"闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
-
+{"key": "77","name": "七七","type": 3, "api": "csp_Kunyu77",  "searchable": 1,"quickSearch": 1,"changeable": 1},  
         {
             "key": "豆瓣",
             "name": "豆瓣┃推荐",
