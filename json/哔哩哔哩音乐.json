@@ -9,8 +9,8 @@
             "type_id": "国语歌曲"
         },
         {
-            "type_name": "2022年热榜",
-            "type_id": "2022年热们歌曲"
+            "type_name": "2023年热榜",
+            "type_id": "2023年热们歌曲"
         },
         {
             "type_name": "经典老歌",
@@ -379,6 +379,10 @@
         {
             "type_name": "Z张国荣",
             "type_id": "张国荣演唱会"
+        },
+          {
+            "type_name": "短剧",
+            "type_id": "短剧"
         },
         {
             "type_name": "Z周传雄",
