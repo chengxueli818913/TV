@@ -4,7 +4,10 @@
             "type_name": "粤语",
             "type_id": "粤语歌曲"
         },
-         
+            {
+            "type_name": "2024新歌",
+            "type_id": "2024歌曲"
+        },
         {
             "type_name": "国语",
             "type_id": "国语歌曲"
