@@ -72,9 +72,7 @@
 { "key": "番号资源", "name": "番号资源", "type": 0, "api": "http://fhapi9.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "玉兔资源", "name": "玉兔资源", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"gay资源","name":"大陆不稳定gay资源","type":1,"api":"https://gayapi.com/api.php/provide/vod/",  "searchable": 1, "quickSearch": 1, "filterable": 1 },
-{ "key": "桃花资源", "name": "桃花资源", "type": 0, "api": "https://thzy1.me/api.php/provide/vod/", "searchable": 0,"quickSearch": 0},
-
- { "key": "ms4nii", "name": "美少女资源", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{ "key": "ms4nii", "name": "美少女资源", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "KxrbspE", "name": "淫水机资源", "type": 0, "api": "https://www.xrbsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "gdlsE", "name": "香奶儿资源", "type": 0, "api": "https://www.gdlsp.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "kxgav", "name": "白嫖资源", "type": 0, "api": "https://www.kxgav.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
