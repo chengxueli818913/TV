@@ -18,7 +18,7 @@
         },
           {
             "type_name": "画画",
-            "type_id": "画画"
+            "type_id": "儿童画画"
         },
         {
             "type_name": "悟空识字",
@@ -48,10 +48,6 @@
         {
             "type_name": "手工",
             "type_id": "儿童手工"
-        },
-        {
-            "type_name": "美术",
-            "type_id": "儿童美术"
         }
     ],
     "filter": {
