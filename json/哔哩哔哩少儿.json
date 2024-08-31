@@ -50,6 +50,10 @@
             "type_name": "少儿歌曲",
             "type_id": "少儿歌曲"
         },
+         {
+            "type_name": "猫和老鼠",
+            "type_id": "猫和老鼠"
+        },
         {
             "type_name": "手工",
             "type_id": "儿童手工"
