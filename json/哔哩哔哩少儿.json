@@ -47,11 +47,11 @@
         },
         {
             "type_name": "手工",
-            "type_id": "手工"
+            "type_id": "儿童手工"
         },
         {
             "type_name": "美术",
-            "type_id": "美术"
+            "type_id": "儿童美术"
         }
     ],
     "filter": {
