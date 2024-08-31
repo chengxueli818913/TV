@@ -3,11 +3,16 @@
         {
             "type_name": "儿童",
             "type_id": "益智动画合集"
-        }, {
+        }, 
+        {
             "type_name": "睡前故事",
             "type_id": "睡前故事"
         },
         
+        {
+            "type_name": "儿童舞蹈",
+            "type_id": "儿童舞蹈"
+        },
          {
             "type_name": "儿童生活好习惯",
             "type_id": "儿童生活好习惯"
