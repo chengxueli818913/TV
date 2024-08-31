@@ -2,11 +2,15 @@
     "classes": [
         {
             "type_name": "儿童",
-            "type_id": "3-6岁益智动画合集"
+            "type_id": "3-8岁益智动画合集"
         },
         {
             "type_name": "宝宝巴士",
             "type_id": "宝宝巴士动画合集"
+        },
+          {
+            "type_name": "画画",
+            "type_id": "画画"
         },
         {
             "type_name": "悟空识字",
