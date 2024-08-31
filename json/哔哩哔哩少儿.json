@@ -2,7 +2,15 @@
     "classes": [
         {
             "type_name": "儿童",
-            "type_id": "6-10岁益智动画合集"
+            "type_id": "益智动画合集"
+        }, {
+            "type_name": "睡前故事",
+            "type_id": "睡前故事"
+        },
+        
+         {
+            "type_name": "儿童生活好习惯",
+            "type_id": "儿童生活好习惯"
         },
         {
             "type_name": "宝宝巴士",
@@ -16,10 +24,7 @@
             "type_name": "悟空识字",
             "type_id": "识字认字动画合集"
         },
-        {
-            "type_name": "少儿",
-            "type_id": "CCTV14少儿频道合集"
-        },
+      
         {
             "type_name": "拼音",
             "type_id": "拼音"
