@@ -69,7 +69,6 @@
 {"key": "js虎牙", "name": "虎牙┃直播", "type": 3,"api": "./api/drpy2.min.js","searchable": 0, "changeable": 0, "ext": "./js/虎牙直播.js"},
 { "key": "企鹅体育","name": "企鹅┃体育","type": 3,"api": "csp_XPath", "searchable": 0,"changeable": 0, "ext": "./json/企鹅体育.json"},
 {"key": "310直播","name": "⚽310┃看球","type": 3, "api": "./api/drpy2.min.js","searchable": 0,"changeable": 0, "ext": "./js/310直播.js"},
-{ "key": "番号资源", "name": "番号资源", "type": 0, "api": "http://fhapi9.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "玉兔资源", "name": "玉兔资源", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key":"gay资源","name":"大陆不稳定gay资源","type":1,"api":"https://gayapi.com/api.php/provide/vod/",  "searchable": 1, "quickSearch": 1, "filterable": 1 },
 { "key": "ms4nii", "name": "美少女资源", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
