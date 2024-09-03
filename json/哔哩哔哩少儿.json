@@ -98,6 +98,10 @@
             "type_name": "学写字",
             "type_id": "学写字"
         },
+         {
+            "type_name": "手脑速算",
+            "type_id": "手脑速算"
+        },
         {
             "type_name": "折纸",
             "type_id": "折纸"
