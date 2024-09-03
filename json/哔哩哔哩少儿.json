@@ -91,6 +91,10 @@
             "type_id": "不一样的数学故事"
         },
         {
+            "type_name": "简笔画",
+            "type_id": "简笔画"
+        },
+        {
             "type_name": "折纸",
             "type_id": "折纸"
         }
