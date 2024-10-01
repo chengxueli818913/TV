@@ -2,7 +2,12 @@
 	"classes": [{
 		"type_name": "1年级语文",
 		"type_id": "1年级语文"
-	}, {
+	},{
+		"type_name": "日有所诵",
+		"type_id": "日有所诵"
+	},
+	
+		{
 		"type_name": "1年级科学",
 		"type_id": "1年级科学"
 	},
