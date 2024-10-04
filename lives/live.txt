@@ -1,5 +1,4 @@
 央视频道_,#genre#
-
 CCTV1 综合,http://video.qd.sdu.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/index.m3u8
 CCTV2 财经,http://video.qd.sdu.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/index.m3u8
 CCTV3 综艺,http://video.qd.sdu.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/index.m3u8
@@ -20,7 +19,6 @@ CCTV-17农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.co
 CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 CHC动作电影, http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 CHC家庭影院, http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8
-
 凤凰中文, http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯, http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港, http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -125,7 +123,57 @@ CETV-4, http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 东方财经, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281
 法治天地, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
 第一财经, http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
+
 浙江频道,#genre#
+文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
+文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+温州洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
+永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
+苍南综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
+绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
+绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
+绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
+绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
+绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
+绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
+绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+舟山新闻综合,http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
+舟山公共生活,http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
+武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
+平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
+平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
+萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
+淳安电视台,https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8?zzhed
+余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
+余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
+嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
+诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
+上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+兰溪综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+兰溪综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
+象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
+普陀综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
+开化综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
+龙游综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
+衢江综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
+龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
+庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
+遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
+松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
+云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
+
+青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
+
 浙江新闻, https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 浙江国际, https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿, https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -155,10 +203,6 @@ CGTN俄语, https://0472.org/hls/cgtne.m3u8
 CGTN法语, https://0472.org/hls/cgtnf.m3u8
 CGTN西语, https://0472.org/hls/cgtnx.m3u8
 CGTN阿语, https://0472.org/hls/cgtna.m3u8
-
-
-
-
 
 港澳湾,#genre#
 明视,http://61.221.215.25:8800/hls/1/index.m3u8
@@ -1495,84 +1539,25 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 北京音乐广播,http://live.xmcdn.com/live/95/64.m3u8
 广东音乐广播,http://ls.qing
 
-浙江,#genre# 
-文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
-文成综合频道,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
-温州洞头综合,http://l.cztvcloud.com/channels/lantian/SXdongtou1/720p.m3u8
-永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
-苍南综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8
 
-绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
-绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
-绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
-绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
-绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
-绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
-绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
-舟山新闻综合,http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
-舟山公共生活,http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
-武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
-平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
-平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
-萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
-萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
-淳安电视台,https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8?zzhed
-余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
-余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
-余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
-余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
-嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
-诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
-上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
-上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
-上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
-
-兰溪综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
-兰溪综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8
-
-象山综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
-
-普陀综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8
-
-开化综合,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
-开化国家公园,http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8
-龙游综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
-龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-衢江综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
-缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
-龙泉综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
-遂昌综合,http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-松阳综合,http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
-云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
-
-青田电视台,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 
 四川,#genre#
 
 巴中综合频道,http://ocj2.kksmg.com/ocj1/ocj1.m3u8
-
 德阳公共频道,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
-
 甘孜综合频道,http://tv.drs.ganzitv.com:8100/channellive/gztv.flv
 广安公共频道,http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8
 广安新闻综合,http://live1.gatv.com.cn:85/live/XWZH.m3u8
-
 黑水新闻综合,http://live.schstv.com:90/live/xwzh.m3u8
 洪雅新闻综合,http://117.172.215.250:8083/videos/live/35/39/GQVbrgob5CGJM/GQVbrgob5CGJM.M3U8
 会东综合频道,http://112.45.133.129:90/live/xwzh.m3u8
 会理新闻频道,http://live.sctvcloud.com/live/huili/playlist.m3u8
 剑阁新闻综合,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel10/playlist.m3u8
 江油新闻综合,http://live.sctvcloud.com/live/jiangyou/playlist.m3u8
-
 金川新闻综合,http://live.jinchuanrmt.com:90/live/zhxw.m3u8
-
 康定新闻综合,http://m3u8-kd.channel.ganzitv.com/nmip-media-yajiang/channellive/channel100663/playlist.m3u8
 乐至综合频道,http://175.155.106.72:89/live1/live1.m3u8
-
 利州综合频道,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8
 凉山新闻综合,http://file.yizu.tv/nmip-media/channellive/channel106606/playlist.m3u8
 凉山频道,http://file.yizu.tv/nmip-media/channellive/channel107323/playlist.m3u8
@@ -1581,85 +1566,57 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 泸州新闻综合频道,http://m3u8.channel.luzhoubs.com/nmip-media/channellive/channel106011/playlist.m3u8
 马边电视台,http://tvfile.mb.lsrm.org.cn/cms/videos/nmip-media/channellive/channel5/playlist.m3u8
 马尔康综合频道,http://live.zmmek.com:90/live/zhxw.m3u8
-
-
 蓬安新闻综合,http://palive.patv123.com:8091/live/xwpd_800K.m3u8
-
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8
 叙永综合频道,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8
 
 安徽,#genre#
-
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8
-
-
 灵璧综合频道,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8
-
 潜山新闻综合,http://60.171.171.101:8278/rtmp_export/video22.m3u8
 宿州公共频道,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 宿州科教频道,http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 宿州新闻综合频道,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-
 歙县综合,http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
 歙县综合,https://stream.ahwanyun.cn/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8
 
 
-
-
-
-
 湖北,#genre#
 荆门教育频道,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
 荆门新闻,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
-
 荆门综合HD,http://jingmen-live21.cjyun.org/10101/s10101-jmnews.m3u8?auth_key=1672502399-0-0-c9dc706da3efc39e5924b6871d7777ca
 荆门综合HD,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8
 荆门教育HD,http://jingmen-live21.cjyun.org/10101/s10101-jmjytv.m3u8?auth_key=1672502399-0-0-60b4a66ddfcc942e855c11fb3a4c13dc
 荆门教育HD,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
-
 江夏综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
 
 
-
-
-
-
 福建,#genre#
-
 武夷山综合频道,http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
-
 漳州新闻,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 三明综合,http://stream.smntv.cn/smtv1/sd/live.m3u8
 三明公共,http://stream.smntv.cn/smtv2/sd/live.m3u8
 莆田公共,http://api.mydianshijia.com/gslb/live?stream_id=py_pt2&type=.m3u8
 漳州一套,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
-
-
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8
-
 
 广西,#genre#
 
 罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8
-
 罗城综合HD,http://111.12.75.177:9100/lctvlive/lch.m3u8
 
 江西,#genre#
 分宜综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
 井冈山台,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
 庐山综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lushan.m3u8
-
 上饶余干,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yugan.m3u8
 万载综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wanzai.m3u8
 武宁综合,http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wuning.m3u8
-
 赣榆综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8
 
 
 江苏,#genre#
-
 靖江综合台,http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
 南京教科,http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
