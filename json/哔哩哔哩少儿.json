@@ -4,7 +4,11 @@
             "type_name": "儿童",
             "type_id": "益智动画合集"
         }, 
-         {
+        {
+            "type_name": "数学绘本",
+            "type_id": "数学绘本"
+        }, 
+        {
             "type_name": "洪恩教育",
             "type_id": "洪恩教育"
         }, 
