@@ -4,7 +4,15 @@
             "type_name": "早教跟练",
             "type_id": "0-3早教跟练"
         },
-            
+        
+             {
+            "type_name": "情商培养",
+            "type_id": "婴幼儿情商培养"
+        },
+ {
+            "type_name": "养育指南",
+            "type_id": "婴幼儿养育指南"
+        },
         {
             "type_name": "早教游戏",
             "type_id": "婴幼儿早教游戏"
