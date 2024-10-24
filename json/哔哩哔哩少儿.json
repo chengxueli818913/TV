@@ -8,9 +8,21 @@
             "type_name": "数学绘本",
             "type_id": "数学绘本"
         }, 
+      {
+            "type_name": "数概念绘本",
+            "type_id": "数概念绘本"
+        }, 
+      {
+            "type_name": "数的计算绘本",
+            "type_id": "数的计算绘本"
+        }, 
         {
-            "type_name": "洪恩教育",
-            "type_id": "洪恩教育"
+            "type_name": "认识时间绘本",
+            "type_id": "认识时间绘本"
+        }, 
+      {
+            "type_name": "认识图形绘本",
+            "type_id": "认识图形绘本"
         }, 
          {
             "type_name": "西游记打开数学之门",
