@@ -65,6 +65,7 @@
 {"key": "csp_戏曲","name": "🅱哔哩┃戏曲", "type": 3, "api": "csp_Bili","searchable": 0,"changeable": 0,"ext": "./json/哔哩哔哩戏曲.json"},
 {"key": "演唱会","name": "🅱哔哩┃音乐", "type": 3, "api": "csp_Bili","searchable": 0, "changeable": 0,"ext": "./json/哔哩哔哩音乐.json"},
 {"key": "兔小贝", "name": "📚儿童┃启蒙", "type": 3, "api": "./api/drpy2.min.js", "searchable": 0, "changeable": 0,"ext": "./js/兔小贝.js" },
+{"key": "编程","name": "🅱哔哩┃编程", "type": 3, "api": "csp_Bili","searchable": 0, "changeable": 0,"ext": "./json/编程语言.json"},
 {"key": "婴幼儿","name": "婴幼儿","type": 3,"api": "csp_Bili","searchable": 0,"changeable": 0,"ext": "./json/哔哩哔哩婴幼儿.json"},
 {"key": "儿童","name": "📚少儿┃教育","type": 3, "api": "csp_Bili", "searchable": 0, "changeable": 0, "ext": "./json/哔哩哔哩少儿.json" },
 {"key": "小学","name": "📚小学┃课堂","type": 3, "api": "csp_Bili", "searchable": 0, "changeable": 0, "ext": "./json/哔哩哔哩小学.json" },
