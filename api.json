@@ -4,6 +4,9 @@
  "spider": "./spider.jar",
 
  "sites": [
+{"key": "app_如意采集","name": "️如意","type": 1,"api": "http://www.ryzyw.com/api.php/provide/vod","searchable":1,"quickSearch":0,"categories":["网络电影","动画电影","动作片", "冒险片", "喜剧片","爱情片","奇幻片","灾难片", "科幻片","恐怖片", "剧情片","战争片", "国产动漫", "日本动漫", "国产剧", "韩国剧",  "港台剧","欧美剧", "国产综艺","短剧","伦理","港台综艺"]},	
+{"key": "app_旺旺采集","name": "️短剧","type": 1,"api": "https://api.wwzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":0,"categories":["短剧"]},	
+{"key": "app_魔都采集","name": "️魔都","type": 1,"api": "https://www.mdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0,"categories":["网络电影","动画电影","动作片", "冒险片", "喜剧片","爱情片","奇幻片","灾难片", "科幻片","恐怖片", "剧情片","战争片", "国产动漫", "日本动漫", "国产剧", "韩国剧",  "港台剧","欧美剧", "国产综艺","短剧","伦理","港台综艺"]},
 {"key": "极速采集","name": "️极速","type": 1,"api": "https://jszyapi.com/api.php/provide/vod","searchable":1,"quickSearch":0,"categories":["网络电影","动画电影","动作片", "冒险片", "喜剧片","爱情片","奇幻片","灾难片", "科幻片","恐怖片", "剧情片","战争片", "国产动漫", "日本动漫", "国产剧", "韩国剧",  "港台剧","欧美剧", "国产综艺","港台综艺","伦理片"]},	
 {"key":"xml_火狐","name":"本接口仅供个人测试，请勿传播，使用者请遵守当地法律","type":1,"style":{"type":"rect","ratio":0.8},"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫","伦理片"]},
 {"key":"天龙","name":"天龙","type":1,"api":"https://www.82mao.com/api.php/provide/vod/", "searchable": 1,"changeable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","欧美剧","韩国剧","台湾剧","日本剧","泰国剧","纪录片","动画片","电影解说","其他片","其他剧","体育赛事","短剧","伦理片"]},
@@ -75,6 +78,11 @@
 {"key": "js虎牙", "name": "虎牙┃直播", "type": 3,"api": "./api/drpy2.min.js","searchable": 0, "changeable": 0, "ext": "./js/虎牙直播.js"},
 { "key": "企鹅体育","name": "企鹅┃体育","type": 3,"api": "csp_XPath", "searchable": 0,"changeable": 0, "ext": "./json/企鹅体育.json"},
 {"key": "310直播","name": "⚽310┃看球","type": 3, "api": "./api/drpy2.min.js","searchable": 0,"changeable": 0, "ext": "./js/310直播.js"},
+{"key":"极品","name":"18+极品","type":1,"api":"https://jipinzyapi.com/api.php/provide/vod/",  "playUrl":"","searchable":1,"quickSearch":0,"categories": ["强奸乱伦","清纯学生","传媒合集","自拍偷拍","制服丝袜", "主播大秀","国产精选","AV解说","少妇人妻","VR视角","角色扮演","明星爆料","网曝门事件","91探花", "精品短视频","女同性恋","男同性恋",,"网曝门事件","日本无码", "日本有码","动漫精品","黑人专区","三级伦理","重口猎奇"]},
+{"key":"蕃茄","name":"18+蕃茄","type":1,"api":"https://fqzy.me//api.php/provide/vod/",  "playUrl":"","searchable":1,"quickSearch":0,"categories": ["偷拍自拍","乱伦毁三观","淫乱学生","女主播网红","欧美精品", "黑料网曝","动漫精选","中文字幕","高清无码","高清有码"]},
+{"key":"滴滴","name":"18+滴滴","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list",  "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{"key":"桃花","name":"18+桃花","type":1,"api":"https://thzy1.me/api.php/provide/vod/",  "searchable": 1, "quickSearch": 1, "filterable": 1 },
+{"key":"色戒","name":"18+色戒","type":1,"api":"https://sjzy.tv/api.php/provide/vod/",  "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "色色影视", "name": "18+色色影视", "type": 4,
 "api": "https://api.paoyun.eu.org/228.php","searchable": 1,"changeable": 0},
 { "key": "玉兔资源", "name": "18+玉兔资源", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
