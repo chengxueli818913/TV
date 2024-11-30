@@ -1,7 +1,9 @@
 {
  "spider": "./spider.jar",
 
- "sites": [ 
+ "sites": [ {"key": "app_如意采集","name": "️如意","type": 1,"api": "http://www.ryzyw.com/api.php/provide/vod","searchable":1,"quickSearch":0,"categories":["网络电影","动画电影","动作片", "冒险片", "喜剧片","爱情片","奇幻片","灾难片", "科幻片","恐怖片", "剧情片","战争片", "国产动漫", "日本动漫", "国产剧", "韩国剧",  "港台剧","欧美剧", "国产综艺","短剧","港台综艺"]},	
+{"key": "app_旺旺采集","name": "️短剧","type": 1,"api": "https://api.wwzy.tv/api.php/provide/vod/","searchable":1,"quickSearch":0,"categories":["短剧"]},	
+{"key": "app_魔都采集","name": "️魔都","type": 1,"api": "https://www.mdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":0,"categories":["网络电影","动画电影","动作片", "冒险片", "喜剧片","爱情片","奇幻片","灾难片", "科幻片","恐怖片", "剧情片","战争片", "国产动漫", "日本动漫", "国产剧", "韩国剧",  "港台剧","欧美剧", "国产综艺","短剧","港台综艺"]},
 {"key": "极速采集","name": "️极速采集","type": 1,"api": "https://jszyapi.com/api.php/provide/vod","searchable":1,"quickSearch":0,"categories":["网络电影","动画电影","动作片", "冒险片", "喜剧片","爱情片","奇幻片","灾难片", "科幻片","恐怖片", "剧情片","战争片", "国产动漫", "日本动漫", "国产剧", "韩国剧",  "港台剧","欧美剧", "国产综艺","港台综艺"]},	
 {"key":"xml_火狐","name":"本接口仅供个人测试，请勿传播，使用者请遵守当地法律","type":1,"style":{"type":"rect","ratio":0.8},"api":"https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":0,"filterable":1,"categories":["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","犯罪片","奇幻片","记录片","动画片","内地剧","香港剧","台湾剧","日剧","韩剧","欧美剧","马泰剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","中国动漫","日本动漫","欧美动漫"]},
 {"key":"优质高清","name":"优清","type":1,"api":"https://api.1080zyku.com/inc/apijson.php?ac=list", "searchable": 1,"changeable": 1,"categories": ["国产动漫","日本动漫","欧美动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","欧美剧","韩国剧","台湾剧","日本剧","泰国剧","纪录片","动画片","电影解说","其他片","其他剧","体育赛事","短剧"]},
