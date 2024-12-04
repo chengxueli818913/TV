@@ -101,7 +101,6 @@
 { "key": "(18+)大地资源", "name": "18+大地资源", "type": 0, "api": "https://dadiapi.com/api.php/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 { "key": "(18+)乐播", "name": "18+乐播", "type": 0, "api": "https://lbapi9.com/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 { "key": "(18+)番号资源", "name": "18+番号资源", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{"key": "155", "name": "18+性交采集", "type": 0, "playerType": 2,"api": "https://155api.com/api.php/provide/vod/at/xml","searchable": 0,"quickSearch": 0},
 {"key": "奥斯卡资源网","name": "18+奥斯卡资源网","type": 1,"api": "https://aosikazy.com/api.php/provide/vod/"},
 {"key":"fhapi9.com","name":"18+1","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
 {"key":"msnii.com","name":"18+2","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"recordable":0,"style":{"type":"rect","ratio":1.33}},
