@@ -58,7 +58,7 @@
 {"key": "豆瓣","name": "豆瓣┃推荐","type": 3,"api": "./api/drpy2.min.js", "searchable": 0, "changeable": 0, "ext": "./js/drpy.js"},
 {"key": "csp_Nbys", "name": "🛫泥巴┃海外", "type": 3,"api": "csp_NiNi", "searchable": 1, "changeable": 1,"jar": "./jars/玩偶.jar"},
 { "key": "星星", "name": "🛫星星┃海外", "type": 3,"api": "csp_Star","searchable": 1, "changeable": 1, "jar": "./jars/玩偶.jar"},
-{ "key": "唐人街影院", "name": "🛫唐人街┃海外","type": 3, "api": "./api/drpy2.min.js","searchable": 1, "changeable": 1, "ext": "./js/唐人街影视[飞].js"},
+{ "key": "唐人街影院", "name": "🛫唐人街┃海外","type": 3, "api": "./api/drpy2.min.js","searchable": 1, "changeable": 1, "ext": "./js/爱奇艺js"},
 {"key": "吼吼","name": "🛫吼吼┃海外", "type": 3, "api": "./api/drpy2.min.js", "searchable": 1,"changeable": 1,"ext": "./js/吼吼[飞].js"},
 { "key": "A8音乐","name": "🎵A8┃MV", "type": 3, "api": "./api/drpy2.min.js","style": { "type": "rect","ratio": 1.597},"searchable": 0, "changeable": 0, "ext": "./js/A8音乐.js"},
 {"key": "DJ哟哟音乐网", "name": "🎵DJ哟哟┃音乐", "type": 3, "api": "./api/drpy2.min.js","searchable": 0,"changeable": 0,"ext": "./js/DJ音乐.js" },
