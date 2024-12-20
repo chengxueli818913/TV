@@ -14,6 +14,8 @@
 {"key": "drpy_js_360影视","name": "360影视","type": 3,"api": "./api/drpy2.min.js","ext": "./js/360影视.js" },
 {"key": "drpy_js_7喜影院","name": "7喜影院", "type": 3,"api": "./api/drpy2.min.js","ext": "./js/7喜影院.js"},
 {"key": "drpy_js_8号影院","name": "8号影院", "type": 3,"api": "./api/drpy2.min.js", "ext": "./js/8号影院.js"},
+{ "key": "hipy_js_KTV歌厅[听]1", "name": "🎤KTV歌厅在线", "type": 3, "api": "http://kxrj.site:55/lib/drpy2.min.js", "searchable": 1, "quickSearch": 1, "filterable": 1, "order_num": 0, "ext": "http://kxrj.site:55/lib/js/KTV歌厅[听].js" },
+{"key": "酷影视","name": "酷影视｜APP", "type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
 {"key": "drpy_js_A8音乐","name": "A8音乐","type": 3,"api": "./api/drpy2.min.js", "ext": "./js/A8音乐.js"},
 {"key": "drpy_js_B站影视","name": "B站影视", "type": 3,"api": "./api/drpy2.min.js", "ext": "./js/B站影视.js"},
 {"key": "drpy_js_HDmoli","name": "HDmoli", "type": 3,"api": "./api/drpy2.min.js","ext": "./js/HDmoli.js"},
