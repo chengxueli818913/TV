@@ -1,5 +1,5 @@
 {
- "spider": "./spider.jar",
+ "spider": "./custom_spider.jar",
 
  "sites": [
 
