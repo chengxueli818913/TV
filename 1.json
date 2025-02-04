@@ -3,7 +3,7 @@
 
  "sites": [
 
-{"key":"csp_LocalFile","name":"佰杺园：蛇年大吉幸福安康.生意兴隆.财运亨通.好运连连.
+{"key":"csp_LocalFile","name":"本地播放
 ","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
 
 
@@ -131,6 +131,7 @@
             "name": "解析聚合", "type": 10,
             "url": "Web"
         },
+        {"name":"优酷推荐","type":0,"url":"https://bfqq.wki8.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
 {"name":"小李子","type":0,"url":"https://www.xiaolizio.xyz/myvideo.html?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
  
 {
