@@ -3,10 +3,12 @@
 
  "sites": [
 
-
-{"key":"csp_LocalFile","name":"本地播放
+{"key":"csp_LocalFile","name":"佰杺园：蛇年大吉幸福安康.生意兴隆.财运亨通.好运连连.
 ","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
 
+{"key": "app_卧龙采集","name": "️卧龙采集","type": 1,"api": "https://collect.wolongzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,
+
+"categories":["动画片","动作片", "冒险片", "喜剧片","爱情片","记录片","灾难片", "科幻片","恐怖片", "剧情片","战争片", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫","海外动漫", "国产剧", "韩剧", "港剧","欧美剧", "日本剧","台湾剧","泰国剧","海外剧","演唱会", "日韩综艺", "港台综艺", "欧美综艺", "国产综艺","有声动漫","影视解说","足球","篮球","邵氏电影","短剧"]},	
 
 
   {"key": "drpy_js_奇珍异兽", "name": "爱奇艺","type": 3,"api": "./api/drpy2.min.js","ext": "./js/奇珍异兽.js"},
@@ -124,16 +126,25 @@
 {"key": "高中","name": "📚高中┃课堂", "type": 3, "api": "csp_Bili", "searchable": 0,"changeable": 0, "ext": "./json/哔哩哔哩高中.json"},
 {"key": "drpy_js_网易公版影像","name": "网易公版影像","type": 3, "api": "./api/drpy2.min.js","ext": "./js/网易公版影像.js"},
 {"key": "drpy_js_武享吧","name": "武享吧","type": 3, "api": "./api/drpy2.min.js", "ext": "./js/武享吧.js" },
-{"key": "push_agent","name": "推送┃磁力","type": 3,"api": "csp_Push","searchable": 1, "changeable": 0,"ext": "./json/token" }
+
+     {
+            "key": "push_agent",
+            "name": "推送┃磁力",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 1,
+            "changeable": 0,
+            "ext": "./json/token"
+        }
         
     ],
     "parses": [
-        {
-            "name": "解析聚合",
-            "type": 3,
+        {  "name": 
+          "解析聚合",
+            "type": 10,
             "url": "Web"
         },
-      {"name":"优酷推荐","type":0,"url":"https://bfqq.wki8.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+        {"name":"优酷推荐","type":0,"url":"https://bfqq.wki8.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
 {"name":"小李子","type":0,"url":"https://www.xiaolizio.xyz/myvideo.html?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
  
 {
@@ -160,8 +171,8 @@
         {"name":"-全看-","type":0,"url":"https://jx.quankan.app/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
         {"name":"-爱豆-","type":0,"url":"https://jx.aidouer.net/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer":"https://jiejie.uk/"}}},
   {"name":"-破云-","type":0,"url":"https://www.pouyun.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
-
- { {"name":"-米-","type":0,"url":"https://yparse.ik9.cc/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
+ 
+  {"name":"-米-","type":0,"url":"https://yparse.ik9.cc/index.php?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
  {"name":"-冰豆解析-","type":0,"url":"https://bd.jx.cn/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
   {"name":"-云解析-","type":0,"url":"https://jx.xymp4.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
    {"name":"-咸鱼解析-","type":0,"url":"https://yingshi.axianyu.top/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
@@ -170,7 +181,9 @@
  {"name":"-虾米2解析-","type":0,"url":"https://jx.xmflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
  {"name":"-虾米解析3-","type":0,"url":"https://jx.m3u8.tv/jiexi/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}}
 
-    ],
+
+
+  ],
     "flags": [
         "youku",
         "tudou",
