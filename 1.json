@@ -5,7 +5,8 @@
 
 {"key":"csp_LocalFile","name":"佰杺园提醒您：请勿相信视频内广告
 ","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
-
+{"key": "app_电影天堂","name": "️电影天堂","type": 1,"api": "http://caiji.dyttzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,
+"categories":["动画片","动作片", "冒险片", "喜剧片","爱情片","记录片","灾难片", "科幻片","恐怖片", "剧情片","战争片", "中国动漫", "日本动漫", "欧美动漫", "港台动漫","海外动漫", "内地剧", "韩剧", "香港剧","欧美剧", "日剧","台剧","马泰剧","短剧", "综艺"]},
 {"key": "app_魔爪采集","name": "️魔爪采集","type": 1,"api": "https://mozhuazy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,
 "categories":["动画片","动作片", "冒险片", "喜剧片","爱情片","记录片","灾难片", "科幻片","恐怖片", "剧情片","战争片", "中国动漫", "日本动漫", "欧美动漫", "港台动漫","海外动漫", "内地剧", "韩剧", "香港剧","欧美剧", "日剧","台剧","马泰剧", "综艺"]},
 {"key": "app_天涯采集","name": "️天涯采集","type": 1,"api": "https://tyyszy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,
