@@ -1,6 +1,10 @@
 {
     "classes": [
         {
+            "type_name": "playlist",
+            "type_id": "playlist"
+        },
+        {
             "type_name": "粤语",
             "type_id": "粤语金曲版"
         },
@@ -1408,3 +1412,4 @@
         ]
     }
 }
+
