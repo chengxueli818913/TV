@@ -4,7 +4,6 @@
  "sites": [
 
                 
-{"key": "修罗","name": "修罗｜磁力","api": "csp_Xlys","type": 3,"ext": "https://xl01.com.de"},
     {"key": "New6v","name": "New6V｜磁力","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.xb6v.com"},
     {"key": "韩圈","name": "韩圈｜影视","type": 3,"api": "csp_Hxq","ext": "https://fishapi.wya6.com/fish/fishhxq.php"},
     {"key": "花柳","name": "花柳｜影视","type": 3,"api": "csp_AppFox","searchable": 1,"changeable": 1,"ext": {"host": "http://nico.oiio.fun","ver": 2}},
