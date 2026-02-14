@@ -1,11 +1,14 @@
 {
- "spider": "./dianshi.jar",
+ "spider": "./spider.jar",
 
  "sites": [
 
-  {"key": "奴娜","name": "奴娜丨影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.nntv.in/api.php/v1.vod"},
-   {"key": "修罗","name": "修罗｜影视","api": "csp_Xlys","type": 3,"ext": "https://www.xlys02.com"},
-  {"key": "New6v","name": "New6V｜磁力","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.xb6v.com"},
+   
+{"key": "奴娜","name": "奴娜丨影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.nntv.in/api.php/v1.vod"},
+   
+    
+{"key": "修罗","name": "修罗｜影视","api": "csp_Xlys","type": 3,"ext": "https://www.xlys02.com"},
+    {"key": "New6v","name": "New6V｜磁力","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.xb6v.com"},
     {"key": "韩圈","name": "韩圈｜影视","type": 3,"api": "csp_Hxq","ext": "https://fishapi.wya6.com/fish/fishhxq.php"},
     {"key": "花柳","name": "花柳｜影视","type": 3,"api": "csp_AppFox","searchable": 1,"changeable": 1,"ext": {"host": "http://nico.oiio.fun","ver": 2}},
     {"key": "麒麟","name": "麒麟｜影视","type": 3,"api": "csp_AppFox","searchable": 1,"changeable": 1,"ext": {"host": "https://qh.70qh.top","ver": 2}},
@@ -96,22 +99,151 @@
 
 {"key": "drpy_js_蜻蜓FM", "name": "蜻蜓FM","type": 3, "api": "./api/drpy2.min.js", "ext": "./js/蜻蜓FM.js"},
 {"key": "drpy_js_斗鱼直播","name": "斗鱼直播","type": 3,"api": "./api/drpy2.min.js", "ext": "./js/斗鱼直播.js"},
-{"key": "儿童","name": "📚少儿┃教育","type": 3, "api": "csp_Bili", "searchable": 0, "changeable": 0, "ext": "./json/哔哩哔哩少儿.json" },
-{"key": "演唱会","name": "🅱哔哩┃音乐", "type": 3, "api": "csp_Bili","searchable": 0, "changeable": 0,"ext": "./json/哔哩哔哩音乐.json"},
-{"key": "csp_BBB", "name": "🅱哔哩┃合集", "type": 3, "api": "csp_Bili","searchable": 0,"changeable": 0,"ext": "./json/哔哩哔哩合集.json"},
-{"key": "csp_戏曲","name": "🅱哔哩┃戏曲", "type": 3, "api": "csp_Bili","searchable": 0,"changeable": 0,"ext": "./json/哔哩哔哩戏曲.json"},
-{"key": "编程","name": "🅱哔哩┃编程", "type": 3, "api": "csp_Bili","searchable": 0, "changeable": 0,"ext": "./json/编程语言.json"},
 
-{"key": "小学","name": "📚小学┃课堂","type": 3, "api": "csp_Bili", "searchable": 0, "changeable": 0, "ext": "./json/哔哩哔哩小学.json" },
-{"key": "婴幼儿","name": "婴幼儿","type": 3,"api": "csp_Bili","searchable": 0,"changeable": 0,"ext": "./json/哔哩哔哩婴幼儿.json"},
-{"key": "初中","name": "📚初中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"changeable": 0,"ext": "./json/哔哩哔哩初中.json"},
-{"key": "高中","name": "📚高中┃课堂", "type": 3, "api": "csp_Bili", "searchable": 0,"changeable": 0, "ext": "./json/哔哩哔哩高中.json"},
-{"key": "drpy_js_我的哔哩","name": "我的哔哩","type": 3,"api": "./api/drpy2.min.js", "ext": "./js/我的哔哩.js"},
-{"key": "drpy_js_哔哩影视","name": "哔哩影视","type": 3,"api": "./api/drpy2.min.js","ext": "./js/哔哩影视.js"},
-{"key": "drpy_js_哔哩直播","name": "哔哩直播","type": 3, "api": "./api/drpy2.min.js","ext": "./js/哔哩直播.js"},
-{"key":"csp_Bili短剧","name":"🐞哔哩短剧","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./json/哔哩短剧.json"},
 {"key": "drpy_js_网易公版影像","name": "网易公版影像","type": 3, "api": "./api/drpy2.min.js","ext": "./js/网易公版影像.js"},
-
+ {
+            "key": "呦呦DJ",
+            "name": "呦呦｜DJ",
+            "type": 3,
+            "api": "csp_Djuu",
+            "style": {
+                "type": "list"
+            }
+        },
+       {
+            "key": "急救教学",
+            "name": "急救｜教学",
+            "type": 3,
+            "api": "csp_FirstAid",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 3.8
+            },
+            "gridview": "0-0-4.1"
+        },
+       
+ {
+            "key": "哔哩哔哩音乐",
+            "name": "哔哩｜音乐",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "json": "./json/哔哩哔哩音乐.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+  {
+            "key": "哔哩哔哩戏曲",
+            "name": "哔哩｜戏曲",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "json": "./json/哔哩哔哩戏曲.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+ {
+            "key": "哔哩哔哩",
+            "name": "哔哩｜少儿",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "json": "./json/哔哩哔哩少儿.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+{
+            "key": "哔哩哔哩听书",
+            "name": "哔哩｜听书",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "json": "./json/哔哩哔哩听书.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+{
+            "key": "小学课堂",
+            "name": "小学｜课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "json": "./json/小学课堂.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "初中课堂",
+            "name": "初中｜课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "json": "./json/初中课堂.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+        {
+            "key": "高中课堂",
+            "name": "高中｜课堂",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "json": "./json/高中课堂.json",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
    {"key": "app_小绵阳解析","name": "️小绵阳解析","type": 1,"api": "https://vs.okcdn100.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,
 "categories":["动画片","动作片", "冒险片", "喜剧片","爱情片","记录片","灾难片", "悬疑片", "奇幻片","恐怖片", "剧情片","战争片", "武侠片", "中国动漫", "日本动漫", "欧美动漫", "港台动漫","海外动漫", "国产剧", "韩剧", "香港剧","欧美剧", "日剧","台剧","马泰剧", "综艺","动漫","短剧"]},		
 {"key": "drpy_js_武享吧","name": "武享吧","type": 3, "api": "./api/drpy2.min.js", "ext": "./js/武享吧.js" },
