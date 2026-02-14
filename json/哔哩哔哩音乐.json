@@ -1,0 +1,104 @@
+{
+    "class": [
+{
+            "type_name": "playlist",
+            "type_id": "playlist"
+        },
+  {
+            "type_name": "王海玲",
+            "type_id": "王海玲"
+        },
+        {
+            "type_name": "经典情歌",
+            "type_id": "经典情歌"
+        },
+           {
+            "type_name": "粤语",
+            "type_id": "粤语金曲版"
+        },
+          {
+            "type_name": "校园歌曲",
+            "type_id": "彩虹阳光小白马"
+        },
+         {
+            "type_name": "英文歌曲",
+            "type_id": "欧美金曲版"
+        },
+ {
+            "type_name": "国语",
+            "type_id": "国语歌曲"
+        },
+{
+           
+            "type_name": "00后热歌",
+            "type_id": "00后热歌版"
+        },
+{
+           
+            "type_name": "90后热歌",
+            "type_id": "90后热歌版"
+        },
+ {
+           
+            "type_name": "80后热歌",
+            "type_id": "80后热歌版"
+        },
+             {
+           
+            "type_name": "2025新歌",
+            "type_id": "2025歌曲"
+        },
+        {
+            "type_name": "蜂鸟流行音乐",
+            "type_id": "蜂鸟流行音乐"
+        },
+       
+        {
+            "type_name": "快手热歌版",
+            "type_id": "快手热歌版"
+        },
+        {
+            "type_name": "经典老歌",
+            "type_id": "经典老歌"
+        },
+        {
+            "type_name": "古风歌曲",
+            "type_id": "古风歌曲"
+        },
+  {
+            "type_name": "小语种热歌",
+            "type_id": "小语种热歌版"
+        },
+        {
+            "type_name": "抖音热歌",
+            "type_id": "抖音热歌"
+        },
+ {
+            "type_name": "影视金曲",
+            "type_id": "影视金曲版"
+        },
+        {
+            "type_name": "ACG",
+            "type_id": "ACG新歌榜"
+        },
+        {
+            "type_name": "DJ",
+            "type_id": "DJ歌曲"
+        },
+        {
+            "type_name": "网红翻唱",
+            "type_id": "网红翻唱歌曲"
+        },
+        {
+            "type_name": "韩国女团",
+            "type_id": "韩国女团"
+        },
+ {"type_name": "A艾伦","type_id": "艾伦歌曲"},  {"type_name": "A阿桑","type_id": "阿桑歌曲"}, {"type_name": "A阿杜","type_id": "阿杜歌曲"},  {"type_name": "A阿宝","type_id": "阿宝歌曲"},  {"type_name": "A阿牛","type_id": "阿牛歌曲"},   {"type_name": "A安东阳","type_id": "安东阳歌曲"},  {"type_name": "B白小白","type_id": "白小白歌曲"},  {"type_name": B宝石Gem","type_id": "宝石Gem歌曲"},{"type_name": "C陈奕迅","type_id": "陈奕迅歌曲"},  {"type_name": "C陈楚生","type_id": "陈楚生歌曲"},  {"type_name": "C蔡徐坤","type_id": "蔡徐坤歌曲"},  {"type_name": "C曹格","type_id": "曹格歌曲"},   {"type_name": "C陈小春","type_id": "陈小春歌曲"},  {"type_name": "C陈星","type_id": "陈星歌曲"},  {"type_name": "C蔡依林","type_id": "蔡依林歌曲"},  {"type_name": "C陈百强","type_id": "陈百强歌曲"},  {"type_name": "C成龙","type_id": "成龙歌曲"},  {"type_name": "C迟志强","type_id": "迟志强歌曲"},  {"type_name": "C陈冠希","type_id": "陈冠希歌曲"},  {"type_name": "C蔡国权","type_id": "蔡国权歌曲"},   {"type_name": "C崔健","type_id": "崔健歌曲"},  {"type_name": "C陈冠蒲","type_id": "陈冠蒲歌曲"},  {"type_name": "C陈慧娴","type_id": "陈慧娴歌曲"},{"type_name": "C陈明真","type_id": "陈明真歌曲"},{"type_name": "C陈淑桦","type_id": "陈淑桦歌曲"},{"type_name": "C蔡幸娟","type_id": "蔡幸娟歌曲"}, {"type_name": "C陈小云","type_id": "陈小云歌曲"},{"type_name": "CCoCo李玟","type_id": "CoCo李玟歌曲"},{"type_name": "C蔡琴","type_id": "蔡琴歌曲"},{"type_name": "C草蜢","type_id": "草蜢歌曲"}, {"type_name": "C陈慧琳","type_id": "陈慧琳歌曲"}, {"type_name": "C陈瑞","type_id": "陈瑞歌曲"}, {"type_name": "C蔡健雅","type_id": "蔡健雅歌曲"}, {"type_name": "C蔡国庆","type_id": "蔡国庆歌曲"},  {"type_name": "C车继铃","type_id": "车继铃歌曲"},   {"type_name": "C陳志朋","type_id": "陳志朋歌曲"},  {"type_name": "C陈百祥","type_id": "陈百祥歌曲"},  {"type_name": "D刀郎","type_id": "刀郎歌曲"},  {"type_name": "D迪克牛仔","type_id": "迪克牛仔歌曲"},   {"type_name": "D动力火车","type_id": "动力火车歌曲"}, {"type_name": "D大壮","type_id": "大壮歌曲"},  {"type_name": "D大张伟","type_id": "大张伟歌曲"},  {"type_name": "D邓丽君","type_id": "邓丽君歌曲"}, {"type_name": "D大欢","type_id": "大欢歌曲"},  {"type_name": "D杜德伟","type_id": "杜德伟歌曲"},   {"type_name": "D大哲","type_id": "大哲歌曲"},  {"type_name": "D戴军","type_id": "戴军歌曲"},{"type_name": "FF.I.R.飞儿乐团","type_id": "F.I.R.飞儿乐团歌曲"}, {"type_name": "F凤凰传奇","type_id": "凤凰传奇歌曲"},  {"type_name": "F方大同","type_id": "方大同歌曲"},  {"type_name": "F方大树","type_id": "方大树歌曲"},   {"type_name": "F费玉清","type_id": "费玉清歌曲"},  {"type_name": "F费翔","type_id": "费翔歌曲"},  {"type_name": "F付笛声","type_id": "付笛声歌曲"},  {"type_name": "G郭富城","type_id": "郭富城歌曲"},   {"type_name": "G古巨基","type_id": "古巨基歌曲"},{"type_name": "G 关淑怡","type_id": "关淑怡歌曲"}, {"type_name": "G 高胜美","type_id": "高胜美歌曲"},  {"type_name": "G 邓紫棋","type_id": "邓紫棋歌曲"}, {"type_name": "G光良","type_id": "光良歌曲"},   {"type_name": "G郭峰","type_id": "郭峰歌曲"},   {"type_name": "G高林生","type_id": "高林生歌曲"},  {"type_name": "G高晓松","type_id": "高晓松歌曲"},  {"type_name": "H海来阿木","type_id": "海来阿木歌曲"},  
+{"type_name": "H花儿乐队","type_id": "花儿乐队歌曲"},  
+ {"type_name": "H黄家驹","type_id": "黄家驹歌曲"},   {"type_name": "H欢子","type_id": "欢子歌曲"},  {"type_name": "H华晨宇","type_id": "华晨宇歌曲"},  {"type_name": "H虎二","type_id": "虎二歌曲"},  {"type_name": "H胡彦斌","type_id": "胡彦斌歌曲"},  {"type_name": "H黑豹乐队","type_id": "黑豹乐队歌曲"}, {"type_name": "H侯泽润","type_id": "侯泽润歌曲"},  {"type_name": "H韩小欠","type_id": "韩小欠歌曲"},  {"type_name": "H黄凯芹","type_id": "黄凯芹歌曲"},     {"type_name": "H后弦","type_id": "后弦歌曲"},{"type_name": "H黄绮珊","type_id": "黄绮珊歌曲"},{"type_name": "H何洁","type_id": "何洁歌曲"},  {"type_name": "H韩红","type_id": "韩红歌曲"},{"type_name": "H韩宝仪","type_id": "韩宝仪歌曲"}, {"type_name": "H黄龄","type_id": "黄龄歌曲"}, {"type_name": "H胡歌","type_id": "胡歌歌曲"},  {"type_name": "H黄品源","type_id": "黄品源歌曲"},  {"type_name": "H侯明昊","type_id": "侯明昊歌曲"},
+  {"type_name": "H海鸣威","type_id": "海鸣威歌曲"},          {"type_name": "H黄渤","type_id": "黄渤歌曲"},     {"type_name": "H海伦","type_id": "海伦歌曲"},     {"type_name": "H胡海泉","type_id": "胡海泉歌曲"},     {"type_name": "J金润吉","type_id": "金润吉歌曲"},   {"type_name": "J姜育恒","type_id": "姜育恒歌曲"},   {"type_name": "J姜玉阳","type_id": "姜玉阳歌曲"},   {"type_name": "J金志文","type_id": "金志文歌曲"},  {"type_name": "L林俊杰","type_id": "林俊杰歌曲"},  {"type_name": "L刘宇宁","type_id": "刘宇宁歌曲"},  {"type_name": "L刘德华","type_id": "刘德华歌曲"},  {"type_name": "L李荣浩","type_id": "李荣浩歌曲"},  {"type_name": "L梁博","type_id": "梁博歌曲"},  {"type_name": "L鹿晗","type_id": "鹿晗歌曲"},  {"type_name": "L李宗盛","type_id": "李宗盛歌曲"},  {"type_name": "L六哲","type_id": "六哲歌曲"},  {"type_name": "L黎明","type_id": "黎明歌曲"},  {"type_name": "L李健","type_id": "李健歌曲"},  {"type_name": "L李克勤","type_id": "李克勤歌曲"},  {"type_name": "L林子祥","type_id": "林子祥歌曲"},  {"type_name": "L冷漠","type_id": "冷漠歌曲"},  {"type_name": "L林宥嘉","type_id": "林宥嘉歌曲"},  {"type_name": "L罗大佑","type_id": "罗大佑歌曲"},  {"type_name": "L李玉刚","type_id": "李玉刚歌曲"},  {"type_name": "L林志炫","type_id": "林志炫歌曲"},{"type_name": "L李翊君","type_id": "李翊君歌曲"}, {"type_name": "L刘若英","type_id": "刘若英歌曲"}, {"type_name": "L林忆莲","type_id": "林忆莲歌曲"}, {"type_name": "L梁静茹","type_id": "梁静茹歌曲"}, {"type_name": "L罗志祥","type_id": "罗志祥歌曲"},  {"type_name": "L李圣杰","type_id": "李圣杰歌曲"},  {"type_name": "L罗百吉","type_id": "罗百吉歌曲"},  {"type_name": "L林峯","type_id": "林峯歌曲"},  {"type_name": "L林志颖","type_id": "林志颖歌曲"},  {"type_name": "L刘欢","type_id": "刘欢歌曲"},  {"type_name": "L吕方","type_id": "吕方歌曲"},  {"type_name": "L李玖哲","type_id": "李玖哲歌曲"},  {"type_name": "L刘大壮","type_id": "刘大壮歌曲"},  {"type_name": "L老狼","type_id": "老狼歌曲"},  {"type_name": "L李春波","type_id": "李春波歌曲"}, {"type_name": "L李琛","type_id": "李琛歌曲"}, {"type_name": "L林依轮","type_id": "林依轮歌曲"}, {"type_name": "L李泉","type_id": "李泉歌曲"}, {"type_name": "L罗中旭","type_id": "罗中旭歌曲"},{"type_name": "M毛阿敏","type_id": "毛阿敏歌曲"},{"type_name": "M梅艳芳","type_id": "梅艳芳歌曲"},{"type_name": "M孟庭苇","type_id": "孟庭苇歌曲"},{"type_name": "M莫叫姐姐","type_id": "莫叫姐姐歌曲"},{"type_name": "M莫文蔚","type_id": "莫文蔚歌曲"},  {"type_name": "M毛不易","type_id": "毛不易歌曲"},   {"type_name": "M马健涛","type_id": "马健涛歌曲"},   {"type_name": "M毛宁","type_id": "毛宁歌曲"}, {"type_name": "P潘越云","type_id": "潘越云歌曲"}, {"type_name": "P彭羚","type_id": "彭羚歌曲"},{"type_name": "P彭佳慧","type_id": "彭佳慧歌曲"}, {"type_name": "P潘美辰","type_id": "潘美辰歌曲"},  {"type_name": "P潘玮柏","type_id": "潘玮柏歌曲"},  {"type_name": "P朴树","type_id": "朴树歌曲"},  {"type_name": "P庞龙","type_id": "庞龙歌曲"},  {"type_name": "P品冠","type_id": "品冠歌曲"},  {"type_name": "P潘安邦","type_id": "潘安邦歌曲"},  
+{"type_name": "Q千百惠","type_id": "千百惠歌曲"},
+  {"type_name": "Q祁隆","type_id": "祁隆歌曲"},{"type_name": "Q裘海正","type_id": "裘海正歌曲"},   {"type_name": "Q齐豫","type_id": "齐豫歌曲"},  {"type_name": "Q齐秦","type_id": "齐秦歌曲"},  {"type_name": "R容祖儿","type_id": "容祖儿歌曲"}, {"type_name": "R任素汐","type_id": "任素汐歌曲"},  {"type_name": "R任贤齐","type_id": "任贤齐歌曲"},  {"type_name": "S孙楠","type_id": "孙楠歌曲"}, {"type_name": "S宋亚轩","type_id": "宋亚轩歌曲"},{"type_name": "S水木年华","type_id": "水木年华歌曲"},{"type_name": "S苏永康","type_id": "苏永康歌曲"},{"type_name": "S苏有朋","type_id": "苏有朋歌曲"},{"type_name": "S沙宝亮","type_id": "沙宝亮歌曲"},{"type_name": "S苏芮","type_id": "苏芮歌曲"},  {"type_name": "S孙耀威","type_id": "孙耀威歌曲"},{"type_name": "T陶喆","type_id": "陶喆歌曲"}, {"type_name": "T谭咏麟","type_id": "谭咏麟歌曲"}, {"type_name": "T邰正宵","type_id": "邰正宵歌曲"}, {"type_name": "T屠洪刚","type_id": "屠洪刚歌曲"}, {"type_name": "T童安格","type_id": "童安格歌曲"}, {"type_name": "T腾格尔","type_id": "腾格尔歌曲"}, {"type_name": "T汤潮","type_id": "汤潮歌曲"}, {"type_name": "W汪苏泷","type_id": "汪苏泷歌曲"}, {"type_name": "W王力宏","type_id": "王力宏歌曲"}, {"type_name": "W王杰","type_id": "王杰歌曲"}, {"type_name": "W伍佰","type_id": "伍佰歌曲"}, {"type_name": "W王赫野","type_id": "王赫野歌曲"}, {"type_name": "W王源","type_id": "王源歌曲"}, {"type_name": "W汪峰","type_id": "汪峰歌曲"}, {"type_name": "W王俊凯","type_id": "王俊凯歌曲"}, {"type_name": "W王嘉尔","type_id": "王嘉尔歌曲"}, {"type_name": "W王铮亮","type_id": "王铮亮歌曲"}, {"type_name": "W吴奇隆","type_id": "吴奇隆歌曲"}, {"type_name": "W巫启贤","type_id": "巫启贤歌曲"}, {"type_name": "W吴克群","type_id": "吴克群歌曲"}, {"type_name": "W王志文","type_id": "王志文歌曲"}, {"type_name": "W吴宗宪","type_id": "吴宗宪歌曲"}, {"type_name": "W王子鸣","type_id": "王子鸣歌曲"}, {"type_name": "W吴秀波","type_id": "吴秀波歌曲"},  {"type_name": "X小虎队","type_id": "小虎队歌曲"}, {"type_name": "X薛之谦","type_id": "薛之谦歌曲"}, {"type_name": "X许嵩","type_id": "许嵩歌曲"},{"type_name": "X许巍","type_id": "许巍歌曲"},{"type_name": "X谢霆锋","type_id": "谢霆锋歌曲"},{"type_name": "X小阿枫","type_id": "小阿枫歌曲"},{"type_name": "X萧敬腾","type_id": "萧敬腾歌曲"},{"type_name": "X徐良","type_id": "徐良歌曲"},{"type_name": "X谢军","type_id": "谢军歌曲"},{"type_name": "X许冠杰","type_id": "许冠杰歌曲"},{"type_name": "X徐誉滕","type_id": "徐誉滕歌曲"},{"type_name": "X许志安","type_id": "许志安歌曲"},{"type_name": "X熊天平","type_id": "熊天平歌曲"},{"type_name": "Y颜人中","type_id": "颜人中歌曲"},{"type_name": "Y优客李林","type_id": "优客李林歌曲"}, {"type_name": "Y羽泉","type_id": "羽泉歌曲"},{"type_name": "Y易烊千玺","type_id": "易烊千玺歌曲"},{"type_name": "Y杨宗纬","type_id": "杨宗纬歌曲"},{"type_name": "Y杨小壮","type_id": "杨小壮歌曲"},{"type_name": "Y杨坤","type_id": "杨坤歌曲"},{"type_name": "Y烟嗓船长","type_id": "烟嗓船长歌曲"},{"type_name": "Y游鸿明","type_id": "游鸿明歌曲"},{"type_name": "Y庾澄庆","type_id": "庾澄庆歌曲"},{"type_name": "Y杨培安","type_id": "杨培安歌曲"},{"type_name": "Z周杰伦","type_id": "周杰伦歌曲"},{"type_name": "Z周深","type_id": "周深歌曲"},{"type_name": "Z张杰","type_id": "张杰歌曲"},{"type_name": "Z张学友","type_id": "张学友歌曲"},{"type_name": "Z赵雷","type_id": "赵雷歌曲"},{"type_name": "Z张信哲","type_id": "张信哲歌曲"},{"type_name": "Z周传雄","type_id": "周传雄歌曲"},{"type_name": "Z梓渝","type_id": "梓渝歌曲"},{"type_name": "Z郑源","type_id": "郑源歌曲"},{"type_name": "Z郑润泽","type_id": "郑润泽歌曲"},{"type_name": "Z张宇","type_id": "张宇歌曲"},{"type_name": "Z张国荣","type_id": "张国荣歌曲"},{"type_name": "Z周华健","type_id": "周华健歌曲"},{"type_name": "Z张震岳","type_id": "张震岳歌曲"},{"type_name": "Z张宇","type_id": "张宇歌曲"},{"type_name": "Z张艺兴","type_id": "张艺兴歌曲"},{"type_name": "Z周柏豪","type_id": "周柏豪歌曲"},{"type_name": "Z赵传","type_id": "赵传歌曲"},{"type_name": "Z郑中基","type_id": "郑中基歌曲"},{"type_name": "Z张敬轩","type_id": "张敬轩歌曲"},{"type_name": "Z张卫健","type_id": "张卫健歌曲"},{"type_name": "Z郑智化","type_id": "郑智化歌曲"},{"type_name": "Z张雨生","type_id": "张雨生歌曲"},{"type_name": "Z赵英俊","type_id": "赵英俊歌曲"},{"type_name": "Z张镐哲","type_id": "张镐哲歌曲"},{"type_name": "Z张洪量","type_id": "张洪量歌曲"},{"type_name": "Z周治平","type_id": "周治平歌曲"},{"type_name": "Z纵贯线","type_id": "纵贯线歌曲"},{"type_name": "Z左麟右李","type_id": "左麟右李歌曲"
+  }
+    ]
+}
