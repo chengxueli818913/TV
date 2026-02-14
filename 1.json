@@ -3,7 +3,8 @@
 
  "sites": [
 
-                
+  {"key": "奴娜","name": "奴娜丨影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.nntv.in/api.php/v1.vod"},
+   {"key": "修罗","name": "修罗｜影视","api": "csp_Xlys","type": 3,"ext": "https://www.xlys02.com"},
   {"key": "New6v","name": "New6V｜磁力","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.xb6v.com"},
     {"key": "韩圈","name": "韩圈｜影视","type": 3,"api": "csp_Hxq","ext": "https://fishapi.wya6.com/fish/fishhxq.php"},
     {"key": "花柳","name": "花柳｜影视","type": 3,"api": "csp_AppFox","searchable": 1,"changeable": 1,"ext": {"host": "http://nico.oiio.fun","ver": 2}},
