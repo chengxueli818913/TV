@@ -119,8 +119,8 @@
         },
 
         {
-            "key": "小学课堂",
-            "name": "📚小学┃课堂",
+            "key": "📚哔哩哔哩少儿",
+            "name": "📚哔哩哔哩少儿",
             "type": 3,
             "api": "csp_BiliGuard",
             "style": {
