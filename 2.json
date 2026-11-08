@@ -1,7 +1,35 @@
 {
- "spider": "./Bee.jar",
+"spider": "./fan1.txt",
 
- "sites": [
+ "sites": [{"key": "点我切源","name": "豆豆┃片单","type": 3,"api": "csp_DouDouGuard","indexs": 1,"searchable": 0,"quickSearch": 0,"changeable": 0},
+ {"key": "MDrive","name": "🗂我的云盘┃配置","type": 3,"api": "csp_MyDriveGuard","changeable": 0,"indexs": 0,"searchable": 1,"style": {"type": "oval"},"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
+    {"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGGGuard","timeout": 30,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"}},
+   {"key": "华数","name": "华数 • 影视","type": 3,"api": "./py/华数.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
+    {"key": "华谊影视","name": "华谊 • 影视","type": 3,"api": "./py/华谊影视.py","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
+    {"key": "MTV1","name": "🎙️易听┃音乐","type": 3,"api": "csp_MusicGuard","style": {"type": "rect","ratio": 1},"playerType": 2,"searchable": 0,"quickSearch": 0,"changeable": 0},
+    {"key": "seed","name": "💡聚剧┃四盘","type": 3,"api": "csp_SeedhubGuard","ext": "5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5","searchable": 1,"quickSearch": 1,"changeable": 0,"indexs": 0},
+    {"key": "光影","name": "🌞光影┃不卡","type": 3,"api": "csp_T4Guard","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="},
+    {"key": "厂长","name": "📔厂长┃不卡","type": 3,"api": "csp_NewCzGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
+    {"key": "海绵","name": "🐬海绵┃不卡","type": 3,"api": "csp_HmysGuard","timeout": 10,"playerType": "2","searchable": 1,"quickSearch": 1,"changeable": 1},
+    {"key": "立播","name": "🌟立播┃不卡","type": 3,"api": "csp_LibvioGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","siteUrl": "https://www.libvio.pw/"}},
+    {"key": "瓜子","name": "👀瓜子┃不卡","type": 3,"api": "csp_AppgzGuard","timeout": 15,"playerType": "2","searchable": 1,"quickSearch": 1,"changeable": 1},
+    {"key": "比特","name": "🍄比特┃不卡","type": 3,"api": "csp_BttwooGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1},
+    {"key": "糯米","name": "🍓糯米┃秒播","type": 3,"api": "csp_NmyswvGuard","timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1},
+    {"key": "文采","name": "💮文采┃秒播","type": 3,"api": "csp_JpysGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
+  
+    {"key": "热播","name": "📺热播┃多线","type": 3,"api": "csp_AppTTGuard","timeout": 10,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "uqGL1bNENExT7/hGxpSE5qU="},
+    {"key": "风云","name": "☁️风云┃多线","type": 3,"api": "csp_FyGuard","ext": {"type": "video","name": "Fy"},"quickSearch": 1,"searchable": 1,"changeable": 1},
+    {"key": "视界","name": "🌸茉莉┃多线","type": 3,"api": "csp_App99Guard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "rfOX1voDIQhH8epBwtCFsuby/mmdmIu8kGlnJc+7VkMRLQ1K+jMy+KN1MKQe0MZ6tmGSO5oFzD8/vWwiSqEpFczDqLrdGT3iH6fZmryrFzKijwYkJUMctdztE0O4CsgYZdBu8XhZSwuhSqqllQz4AZMa1l0sT+1NrbhNIxHkrY0upiYSTLNqEaledgZikMCviOXWr3cPBP4COOeoGUyJSJrrybmUppnWGeDAOHhHOVUSXjwSb+QQvcJIT2lmrf1Bk68myGs7qOqc19tD/rnzf2WOb2MzJZqtURBmUFgaW6ea2dL8OPSpSeVAvaGCAnqwuUNGE9hHpK8jfOs0bLJRdkFLnijAn5Q+ofVM5hgGb8c="},
+    {"key": "剧圈","name": "🐻剧圈┃多线","type": 3,"api": "csp_AppSxGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"},
+    
+   
+    {"key": "新6V","name": "🧲新6V┃磁力","type": 3,"api": "csp_SixVGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "https://www.xb6v.com/"},
+    {"key": "AiDj","name": "❤️AI┃短漫剧","type": 3,"api": "csp_AiDjGuard","ext": {"type": "video","name": "短剧","danMu": false},"indexs": 0,"quickSearch": 1,"searchable": 1,"changeable": 0},
+    {"key": "Dm84","name": "🚌巴士┃动漫","type": 3,"api": "csp_Dm84Guard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1},
+    {"key": "看球","name": "⚽八八┃看球","type": 3,"api": "csp_KanqiuGuard","timeout": 10,"searchable": 0,"changeable": 0,"style": {"type": "list"}},
+    {"key": "多多","name": "🏀多多┃回放","type": 3,"api": "csp_DoubaoGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
+    {"key": "吃瓜","name": "🏐吃瓜┃看球","type": 3,"api": "csp_LiveGzGuard","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "list"}},
+    {"key": "alllive","name": "🎮一直播┃直播","type": 3,"api": "csp_AllliveGuard","style": {"type": "rect","ratio": 1.597},"timeout": 15,"playerType": "2","searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "uqGL1fpJNAUN8ORQgIPD+b6l+CzC2t8="},
   {"key": "app_98采集","name": "️98采集","type": 1,"api": "https://98zy.vip/api.php/provide/vod/","searchable":1,"quickSearch":1,
 "categories":["动画片","动作片", "冒险片", "喜剧片","爱情片","记录片","灾难片", "科幻片","恐怖片", "剧情片","战争片", "中国动漫", "日本动漫", "欧美动漫", "港台动漫","海外动漫", "内地剧", "韩剧", "香港剧","欧美剧", "日剧","台剧","马泰剧", "综艺","体育赛事","短剧"]},	
       
