@@ -1,0 +1,618 @@
+🇨🇳🇨🇳港台电台,#genre#
+领袖广播,https://n14.rcs.revma.com/hpeqh9mkc6hvv
+高雄广播,https://n13.rcs.revma.com/pet2dvug1bkvv
+山海屯青少年之声,https://n02.rcs.revma.com/zr7xzec59duvv
+南投广播,https://fm997.cityfm.com.tw:8083/997
+桃园GO,https://stream.ginnet.cloud/live0119lo-p4rb/_definst_/fm1043/chunklist_w1108784103.m3u8
+人人广播,https://n01.rcs.revma.com/fkdywbc59duvv
+RADIO ICRT,https://n27a-eu.rcs.revma.com/nkdfurztxp3vv
+正声广播,,https://flv.ccdntech.com/live/_definst_/mp4:vod117_Live/live1/chunklist_w872521607.m3u8
+飞扬调频,https://n13.rcs.revma.com/e0tdah74hv8uv
+Happy Radio,https://happyradio.com.tw/live
+九八新闻,https://n17a-eu.rcs.revma.com/pntx1639ntzuv
+香港普通话,https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
+Rthk radio5,https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
+fing radio，https://bluesfan.stream.laut.fm/bluesfan?t302=2020-11-06_13-46-59&uuid=28a2f040-51e1-44fe-899f-3519cbd5d4e9
+A'xr,https://27253.live.streamtheworld.com/AXR_HONGKONGAAC.aac
+香港电台第一台,https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8
+香港新城资讯,https://1603884249.rsc.cdn77.org/1603884249/index.m3u8
+香港电台第二台,https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8
+香港新城财经台,https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8
+AXR,https://hongkongstream.axr.online/
+大屿山广播,https://radio.dripfeed.net/listen/radiolantau/radio.mp3
+Rthk,https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8
+hongkong,https://stream-test.hkcr.live/hls/main.m3u8
+澳门101,https://stream-icy.bauermedia.pt/smooth.aac
+Yw,https://lhttp.qingting.fm/live/1259/64k.mp3?app_id=web
+🇨🇳🇨🇳音乐电台,#genre#
+
+怀集音乐之声,https://lhttp.qingting.fm/live/4804/64k.mp3
+清晨音乐台,https://lhttp.qingting.fm/live/4915/64k.mp3
+asiafM高清音乐,https://lhttp.qtfm.cn/live/15318341/64k.mp3
+两广之声音乐台,https://lhttp.qtfm.cn/live/20500149/64k.mp3
+cctv15音乐伴音,https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
+广州金曲音乐,https://lhttp.qingting.fm/live/20192/64k.mp3
+云梦音乐台,https://lhttp.qtfm.cn/live/20500187/64k.mp3
+亚洲经典,https://lhttp.qingting.fm/live/5021912/64k.mp3
+经典音乐广播,https://satellitepull.cnr.cn/live/wxdszs/playlist.m3u8?wsSession=d8a4b41c6557ba30cfeebcdb-174709298057895&wsIPSercert=29f90b67755e3a4646651f7aa8eb5fd6
+动听音乐台,https://lhttp-hw.qtfm.cn/live/5022107/64k.mp3
+哈尔滨音乐台,https://stream.hrbtv.net/yypl/playlist.m3u8
+吉林音乐广播,https://live-jlr.jlntv.cn/live/fm927.m3u8
+哈尔滨冰城,https://lhttp-hw.qtfm.cn/live/20212259/64k.mp3
+烟台汽车音乐广播,https://lhttp.qingting.fm/live/5022382/64k.mp3
+烟台经典音乐广播,https://lhttp.qingting.fm/live/20500097/64k.mp3
+烟台音乐广播,https://lhttp.qtfm.cn/live/1683/64k.mp3
+青岛音乐,https://lhttp.qtfm.cn/live/1683/64k.mp3
+潍坊音乐88.1,https://lhttp.qtfm.cn/live/15318631/64k.mp3
+临沂音乐,https://lhttp-hw.qtfm.cn/live/4017/64k.mp3
+宿迁交通广播,https://lhttp.qingting.fm/live/5004/64k.mp3
+铜陵交通广播,https://lhttp-hw.qtfm.cn/live/21305/64k.mp3
+FM891线上音乐台,https://lhttp.qtfm.cn/live/20500215/64k.mp3
+徐州音乐广播,https://stream3.huaihai.tv/aac_gbFM916/playlist.m3u8
+铜山经典,https://lhttp-hw.qtfm.cn/live/15318160/64k.mp3
+滕州经典,https://lhttp-hw.qtfm.cn/live/5022611/64k.mp3
+济南音乐广播,https://lhttp.qtfm.cn/live/1671/64k.mp3
+济南文艺广播,https://lhttp.qingting.fm/live/1670/64k.mp3
+沈阳经典音乐广播 https://lhttp.qingting.fm/live/5022520/64k.mp3
+大庆音乐广播,https://lhttp.qtfm.cn/live/20500212/64k.mp3
+上海经典音乐广播,https://lhttp-hw.qtfm.cn/live/267/64k.mp3
+上海金曲广播,https://lhttp-hw.qtfm.cn/live/273/64k.mp3
+江苏流行音乐,https://lhttp.qtfm.cn/live/4938/64k.mp3
+长沙流行音乐,https://lhttp.qingting.fm/live/20847/64k.mp3
+常州音乐广播,https://lhttp-hw.qtfm.cn/live/2799/64k.mp3
+涞水县流行音乐,https://lhttp-hw.qtfm.cn/live/20211620/64k.mp3
+运城金荔枝经典音乐,https://lhttp-hw.qtfm.cn/live/15318194/64k.mp3
+张家口城市广播,https://lhttp.qtfm.cn/live/5021801/64k.mp3
+江苏音乐广播,https://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8?
+河北音乐广播,https://radio.pull.hebtv.com/live/hebyy.m3u8
+张家口城市,https://lhttp.qtfm.cn/live/5021801/64k.mp3
+承德旅游,https://lhttp.qtfm.cn/live/15318158/64k.mp3
+豚州年代音乐,https://lhttp.qtfm.cn/live/5021381/64k.mp3
+北京音乐广播,https://lhttp.qtfm.cn/live/332/64k.mp3
+盐城农村广播,https://lhttp.qtfm.cn/live/20332/64k.mp3
+豚州音乐广播,https://lhttp.qtfm.cn/live/5021381/64k.mp3
+🇨🇳🇨🇳浙江电台,#genre#
+温州交通,https://lhttp.qingting.fm/live/1156/64k.mp3
+温州综合广播,https://lhttp.qtfm.cn/live/1155/64k.mp3
+温州经济广播https://lhttp.qingting.fm/live/1157/64k.mp3
+绍兴交通,https://lhttp.qingting.fm/live/5053/64k.mp3
+浙江民生广播,https://ali-m-l.cztv.com/channels/lantian/fm996/128k.m3u8
+浙江交通之声,https://ali-m-l.cztv.com/channels/lantian/fm93/128k.m3u8
+浙江新闻广播,https://ali-m-l.cztv.com/channels/lantian/fm988/128k.m3u8
+临海人民广播,https://lhttp.qingting.fm/live/5022437/64k.mp3
+诸暨人民广播,https://lhttp.qingting.fm/live/5022482/64k.mp3
+东阳综合,https://lhttp.qtfm.cn/live/21181/64k.mp3
+杭州华语之声,https://lhttp.qtfm.cn/live/20505/64k.mp3
+杭州交通经济,https://lhttp.qtfm.cn/live/1133/64k.mp3
+余姚广播,https://l.cztvcloud.com/channels/lantian/SXyuyaoaud/128k.m3u8
+西湖之声,https://lhttp.qtfm.cn/live/1163/64k.mp3
+杭州资讯,https://lhttp-hw.qtfm.cn/live/15318146/64k.mp3
+湖州交通文艺,https://lhttp.qtfm.cn/live/2811/64k.mp3
+湖州经济,https://lhttp.qtfm.cn/live/2812/64k.mp3
+湖州综合,https://lhttp.qingting.fm/live/2810/64k.mp3
+浙江之声,https://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8?wsSession=1c983a4091d3a5f8a963629b-174704991695690&wsIPSercert=cfb15583bad3e1e7c083a9a0d492bf48
+
+
+🇨🇳🇨🇳广播电台,#genre#
+
+常州交通广播,https://lhttp.qtfm.cn/live/2796/64k.mp3
+常州经济广播,https://lhttp.qtfm.cn/live/2794/64k.mp3
+常州新闻综合,https://lhttp.qtfm.cn/live/2798/64k.mp3
+江苏故事,https://lzlive.vojs.cn/rWjyus9/92/live.m3u8?
+连云港新农村,https://livenew.lyg1.com/FM/hd/live.m3u8
+
+安丘924,https://lhttp.qingting.fm/live/20212216/64k.mp3
+潍坊经济广播,https://lhttp.qtfm.cn/live/20839/64k.mp3
+潍坊音乐文旅,https://lhttp-hw.qtfm.cn/live/15318631/64k.mp3
+山东经济广播,https://lhttp.qtfm.cn/live/20236/64k.mp3
+潍坊市城市之声,https://lhttp.qtfm.cn/live/20211696/64k.mp3
+潍坊private car radio,https://lhttp.qingting.fm/live/20839/64k.mp3
+潍坊新闻,https://lhttp.qtfm.cn/live/20320/64k.mp3
+潍坊音乐,https://lhttp.qtfm.cn/live/15318631/64k.mp3
+潍坊交通,https://lhttp.qtfm.cn/live/4014/64k.mp3
+山东体育休闲,https://tg0f4graurmttgczdopjqgrhugmmbqi1g155cpf5gkc3ogezg1hmjpt4o.100ycdn.com/audiolive302.iqilu.com/sdradioTiyu/sdradio08/playlist.m3u8?wsSession=d88dd6e30262aa7509a4a7ea-179293477049883&wsIPSercert=1c24095b5f73d73e2ddb6dd597d02139&wsBindIP=2&wsserid=1168265538647329047
+山东交通,https://audiolive302.iqilu.com/sdradioJiaotong/sdradio05/playlist.m3u8
+山东综合,https://lhttp.qtfm.cn/live/20234/64k.mp3
+山东卫视伴音,https://piccpndali.v.myalicdn.com/audio/shandong_2.m3u8
+山东维语都市,https://lhttp-hw.qtfm.cn/live/20211680/64k.mp3
+东营生活,https://lhttp.qingting.fm/live/20211580/64k.mp3
+东营综合,https://lhttp.qingting.fm/live/20144/64k.mp3
+东营交通,https://lhttp.qingting.fm/live/20142/64k.mp3
+山东文艺,https://lhttp.qtfm.cn/live/20238/64k.mp3
+临沂交通旅游,https://lhttp.qtfm.cn/live/3993/64k.mp3
+临沂音乐科教,https://lhttp-hw.qtfm.cn/live/4017/64k.mp3
+临沂综合,https://lhttp.qtfm.cn/live/3992/64k.mp3
+临沂文艺广播,https://lhttp.qtfm.cn/live/3995/64k.mp3
+
+宿迁交通,https://lhttp.qingting.fm/live/5004/64k.mp3
+安徽旅游,https://lhttp.qtfm.cn/live/15318219/64k.mp3
+铜陵综合,https://lhttp-hw.qtfm.cn/live/21305/64k.mp3
+铜陵交通,https://lhttp-hw.qtfm.cn/live/21305/64k.mp3
+安徽经济广播,https://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8?wsSession=c650605f64c6488d38b66982-174830209736930&wsIPSercert=cd39a342afce39d82188ebae3a31d1b8
+安徽农村广播,https://satellitepull.cnr.cn/live/wxahncgb/playlist.m3u8?wsSession=c650605f64c6488d38b66982-174830334758393&wsIPSercert=cd39a342afce39d82188ebae3a31d1b8
+安徽老年广播,https://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8?wsSession=c650605f64c6488d38b66982-174830349218686&wsIPSercert=cd39a342afce39d82188ebae3a31d1b8
+安徽综合广播,https://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8?wsSession=a919bd0baf31a1a6f3966f08-174830198864311&wsIPSercert=cd39a342afce39d82188ebae3a31d1b8
+池州综合广播,https://lhttp.qingting.fm/live/5022373/64k.mp3
+
+景德镇综合,https://lhttp.qtfm.cn/live/5022025/64k.mp3
+鹰潭综合广播,https://lhttp.qingting.fm/live/5022035/64k.mp3
+鹰潭交通音乐,https://lhttp.qingting.fm/live/5022036/64k.mp3
+抚州交通音乐,https://lhttp-hw.qtfm.cn/live/20500015/64k.mp3
+抚州新闻广播,https://lhttp-hw.qtfm.cn/live/20500226/64k.mp3
+九江交通,https://lhttp.qingting.fm/live/5021918/64k.mp3
+九江综合,https://lhttp.qingting.fm/live/5022729/64k.mp3
+九江文化旅游广播,https://lhttp.qtfm.cn/live/20212210/64k.mp3
+江西信息交通,https://lhttp.qtfm.cn/live/1811/64k.mp3
+江西财经,https://lhttp.qtfm.cn/live/5021665/64k.mp3
+九江赣北之声,https://lhttp.qtfm.cn/live/5022648/64k.mp3
+南昌音乐广播,https://lhttp.qtfm.cn/live/1804/64k.mp3
+江西文艺音乐广播,https://lhttp.qingting.fm/live/1802/64k.mp3
+江西旅游广播,https://fm-live-pull.jxtvcn.com.cn/live-jxrtv/fm974.m3u8
+江西故事广播,https://lhttp.qtfm.cn/live/20500092/64k.mp3
+江西卫视伴音,https://piccpndali.v.myalicdn.com/audio/jiangxi_2.m3u8
+江西时尚广播,https://lhttp.qingting.fm/live/20500092/64k.mp3
+江西广播电视台,https://lhttp.qingting.fm/live/1809/64k.mp3
+江西综合新闻广播,https://lhttp.qtfm.cn/live/1809/64k.mp3
+新余综合广播,https://lhttp-hw.qtfm.cn/live/20178/64k.mp3
+新余经济交通,https://lhttp-hw.qtfm.cn/live/20093/64k.mp3
+宜春新闻综合,https://liveds-yc.newsyc.com/fmmf/sd/live.m3u8
+宜春交通音乐,https://liveds-yc.newsyc.com/fmb/sd/live.m3u8
+萍乡新闻综合,https://lhttp-hw.qtfm.cn/live/5022409/64k.mp3
+
+株洲交通广播,https://lhttp-hw.qtfm.cn/live/3971/64k.mp3
+岳阳静静,https://lhttp-hw.qtfm.cn/live/5022391/64k.mp3
+岳阳交通,https://lhttp.qingting.fm/live/20987/64k.mp3
+岳阳综合,https://lhttp.qingting.fm/live/20989/64k.mp3
+岳阳时尚广播,https://lhttp.qingting.fm/live/5022391/64k.mp3
+长沙新闻,https://lhttp.qtfm.cn/live/4877/64k.mp3
+长沙交通广播,https://lhttp.qingting.fm/live/3967/64k.mp3
+长沙城市之音,https://lhttp.qingting.fm/live/4237/64k.mp3
+长沙BIG,https://lhttp.qingting.fm/live/20847/64k.mp3
+长沙县综合,https://lhttp.qtfm.cn/live/4930/64k.mp3
+长沙音乐广播,https://lhttp.qtfm.cn/live/20847/64k.mp3
+湘潭新闻综合,https://lhttp.qingting.fm/live/15318549/64k.mp3
+湘潭交通,https://lhttp.qingting.fm/live/21269/64k.mp3
+衡阳综合,https://lhttp.qtfm.cn/live/15318386/64k.mp3
+衡阳交通,https://lhttp.qtfm.cn/live/15318385/64k.mp3
+湘乡广播,https://lhttp-hw.qtfm.cn/live/15318180/64k.mp3
+鼎城人民广播,https://lhttp.qingting.fm/live/5021860/64k.mp3
+澧县人民广播,https://lhttp-hw.qtfm.cn/live/15318178/64k.mp3
+宜章综合,https://lhttp.qtfm.cn/live/15318691/64k.mp3
+益阳综合,https://lhttp.qingting.fm/live/20314/64k.mp3
+湖南音乐之声,https://lhttp-hw.qtfm.cn/live/4979/64k.mp3
+益阳交通,https://lhttp-hw.qtfm.cn/live/15318153/64k.mp3
+靖州综合,https://lhttp.qtfm.cn/live/20500011/64k.mp3
+彬州交通,https://lhttp.qingting.fm/live/20867/64k.mp3jl
+彬州综合,https://lhttp.qingting.fm/live/20489/64k.mp3
+桃江电台,https://lhttp.qtfm.cn/live/20500086/64k.mp3
+湖南金鹰,https://rscdn.ajmide.com/r_1700/nglive_1700.m3u8
+娄底交通广播,https://lhttp.qingting.fm/live/20507/64k.mp3
+永州新闻综合广播,https://lhttp-hw.qtfm.cn/live/15318594/64k.mp3
+邵阳经济广播,https://lhttp.qingting.fm/live/20500058/64k.mp3
+邵阳综合广播,https://lhttp.qingting.fm/live/20148/64k.mp3
+遵义交通文艺广播,https://lhttp.qingting.fm/live/20741/64k.mp3
+贵阳综合广播,https://lhttp.qtfm.cn/live/1773/64k.mp3
+安顺综合广播,https://lhttp.qingting.fm/live/5022203/64k.mp3
+兴义市广播电台,https://lhttp-hw.qtfm.cn/live/20500110/64k.mp3
+六合水综合广播,https://lhttp.qingting.fm/live/20211616/64k.mp3
+红河综合广播,https://lhttp-hw.qtfm.cn/live/4033/64k.mp3
+云南民族广播,https://gbw.ynradio.cn/radio/mzgb.stream/playlist.m3u8
+云南国际广播,https://gbw.ynradio.cn/radio/gjgb.stream/playlist.m3u8
+云南新闻广播,https://gbw.ynradio.cn/radio/xwgb.stream/playlist.m3u8
+云南音乐广播,https://gbw.ynradio.cn/radio/yygb.stream/playlist.m3u8
+昆明汽车广播,https://lhttp.qtfm.cn/live/1936/64k.mp3
+昆明综合广播,https://lhttp.qtfm.cn/live/1934/64k.mp3
+听梦想FM,https://lhttp-hw.qtfm.cn/live/4917/64k.mp3
+昆明老年广播,https://lhttp-hw.qtfm.cn/live/1937/64k.mp3
+云南经济广播,https://lhttp.qtfm.cn/live/1927/64k.mp3
+镇雄新闻广播,https://lhttp-hw.qtfm.cn/live/20210752/64k.mp3
+玉溪新闻综合广播,https://lhttp.qingting.fm/live/5022031/64k.mp3
+怒江综合广播,https://lhttp.qtfm.cn/live/15318176/64k.mp3
+云南卫视伴音,https://piccpndali.v.myalicdn.com/audio/yunnan_2.m3u8
+弥勒广播电台,https://lhttp.qingting.fm/live/5022531/64k.mp3
+玉溪交通旅游广播,https://lhttp.qingting.fm/live/20211563/64k.mp3
+普洱综合广播,https://lhttp.qingting.fm/live/1938/64k.mp3
+普洱交通广播,https://lhttp.qingting.fm/live/20212429/64k.mp3
+BCC中广流行,http://stream.rcs.revma.com/aw9uqyxy2tzuv
+BCC中广新闻,http://stream.rcs.revma.com/78fm9wyy2tzuv
+BCC中广音乐,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+Capital FM,http://22893.live.streamtheworld.com:3690/CAPITAL958FMAAC.aac
+China Plus Radio,https://sk.cri.cn/am846.m3u8
+Class FM,http://22393.live.streamtheworld.com/CLASS95.mp3
+CNA938,http://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac
+藏语广播,http://ngcdn012.cnr.cn/live/zygb/index.m3u8
+CNR 哈语广播,http://ngcdn025.cnr.cn/live/hygb/index.m3u8
+华夏之声 ,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+经典音乐广播,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+经济之声 ,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR 老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+维语广播,http://ngcdn013.cnr.cn/live/wygb/index.m3u8
+文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+CNR 香港之声,http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+娱乐广播,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+中国乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+中华之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+Easy FM – FM91.5http://sk.cri.cn/915.m3u8
+CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
+CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
+CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
+环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
+CRI 南海之声,http://sk.cri.cn/nhzs.m3u8
+中文环球广播,http://sk.cri.cn/hyhq.m3u8
+世界华声,http://sk.cri.cn/hxfh.m3u8
+DRHK,http://ice.digitalradiohk.net:8000/drhk
+Gold FM,http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
+Hao FM,http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3
+HITFM国际流行音乐,https://sk.cri.cn/887.m3u8
+MSNBC Radio,http://peridot.streamguys.com:7850/live
+NPR News,http://npr-ice.streamguys1.com/live.mp3
+Power FM,https://crystalout.surfernetwork.com:8001/KVSP_MP3
+Times Radio,http://timesradio.wireless.radio/stream
+安徽交通广播,https://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
+安徽经济广播,https://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
+安徽旅游广播,https://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
+安徽农村广播,https://satellitepull.cnr.cn/live/wxahncgb/playlist.m3u8
+安徽生活广播,https://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8
+安徽戏曲广播,https://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
+安徽小说评书,https://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
+安徽音乐广播,https://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
+安徽之声,https://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
+巴渝之声 FM104.5,http://ls.qingting.fm/live/3545693.m3u8
+保定城市服务广播 乐动1016,http://ls.qingting.fm/live/62628.m3u8
+保定交通广播,http://ls.qingting.fm/live/28140.m3u8
+保定经典964汽车音乐广播,http://ls.qingting.fm/live/2227017.m3u8
+保定新闻广播,http://ls.qingting.fm/live/3701149.m3u8
+保山综合广播,http://ls.qingting.fm/live/3702178.m3u8
+北京城市广播,http://ls.qingting.fm/live/345.m3u8
+北京城市广播,https://satellitepull.cnr.cn/live/wxbjcsfwgl/playlist.m3u8
+北京房山经典音乐,http://live.xmcdn.com/live/963/64.m3u8
+北京好音乐,http://ls.qingting.fm/live/2131011.m3u8 
+北京交通广播,https://cnlive.cnr.cn/hls/bjjtgb.m3u8
+北京经典调频,http://live.funhillrm.com/4/sd/live.m3u8
+北京文艺广播,http://live.xmcdn.com/live/94/64.m3u8  
+北京新闻广播,https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8 
+北京音乐广播,https://cnlive.cnr.cn/hls/bjyygb.m3u8
+兵团综合广播,https://satellitepull.cnr.cn/live/wxbtzs/playlist.m3u8
+常州交通广播,http://ls.qingting.fm/live/2796.m3u8
+郴州音乐交通广播,http://ls.qingting.fm/live/86747.m3u8
+郴州综合广播,http://ls.qingting.fm/live/76765.m3u8
+沉阳都市广播,http://ls.qingting.fm/live/1099.m3u8
+沉阳新闻广播 FM104.5,http://ls.qingting.fm/live/23891.m3u8
+沉阳音乐广播 路上好朋友 FM98.6,http://ls.qingting.fm/live/1101.m3u8 
+楚天交通广播,https://satellitepull.cnr.cn/live/wx32hubctjtgb/playlist.m3u8 
+楚天音乐广播,https://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
+大湾区之声,https://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+第一财经广播,https://satellitepull.cnr.cn/live/wx32dycjgb/playlist.m3u8
+东莞FM104音乐广播,http://ls.qingting.fm/live/93619.m3u8
+东莞畅享1075交通广播,http://ls.qingting.fm/live/1288.m3u8
+东广新闻台 FM90.9,http://ls.qingting.fm/live/275.m3u8
+福建财经961,https://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
+福建东南广播,https://satellitepull.cnr.cn/live/wx32fjdngb/playlist.m3u8
+福建都市广播,https://satellitepull.cnr.cn/live/wx32fjdndsgb/playlist.m3u8 
+福建交通广播,https://satellitepull.cnr.cn/live/wx32fjdnjtgb/playlist.m3u8
+福建经济广播 FM96.1,http://live.xmcdn.com/live/789/64.m3u8
+福建汽车音乐,https://satellitepull.cnr.cn/live/wx32fjdnyygb/playlist.m3u8
+福建私家车广播 FM98.7,http://live.xmcdn.com/live/793/64.m3u8  
+福建新闻广播,https://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
+福建音乐广播 FM91.3,http://live.xmcdn.com/live/791/64.m3u8
+福建音乐广播 FM91.3,http://ls.qingting.fm/live/4585.m3u8 
+肃都市调频,https://satellitepull.cnr.cn/live/wxgsdstb/playlist.m3u8
+甘肃黄河之声,https://satellitepull.cnr.cn/live/wxgshhzs/playlist.m3u8 
+甘肃交通广播,https://satellitepull.cnr.cn/live/wxgsjtgb/playlist.m3u8
+甘肃经济广播 FM93.4(2),http://live.xmcdn.com/live/292/64.m3u8
+甘肃农村广播,https://satellitepull.cnr.cn/live/wxgsncgb/playlist.m3u8
+甘肃青春调频,https://satellitepull.cnr.cn/live/wxgsqcgb/playlist.m3u8
+甘肃新闻综合,https://satellitepull.cnr.cn/live/wxgsxwzhgb/playlist.m3u8 
+广东城市之声,https://satellitepull.cnr.cn/live/wxgdcszs/playlist.m3u8  
+广东股市广播,https://satellitepull.cnr.cn/live/wxgdgsgb/playlist.m3u8
+广东南方生活广播 FM93.6,http://live.xmcdn.com/live/249/64.m3u8 
+广东南粤之声,https://satellitepull.cnr.cn/live/wxnyzs/playlist.m3u8 
+广东文体广播,https://satellitepull.cnr.cn/live/wxgdwtgb/playlist.m3u8
+广东新闻广播,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
+广东新闻频道 FM91.4,http://live.xmcdn.com/live/245/64.m3u8 
+广东羊城交通广播 FM105.2,http://live.xmcdn.com/live/248/64.m3u8 
+广东音乐之声 FM99.3,http://live.xmcdn.com/live/74/64.m3u8 
+广东音乐之声,https://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
+广东优悦广播(南粤) FM105.7,http://ls.qingting.fm/live/470.m3u8
+广东珠江经济台 FM97.4,http://live.xmcdn.com/live/252/64.m3u8 
+广西北部湾之声(广西对外广播) FM96.4,http://ls.qingting.fm/live/1757.m3u8
+广西对外广播,https://satellitepull.cnr.cn/live/wx32gxdwgb/playlist.m3u8
+广西交通广播,https://satellitepull.cnr.cn/live/wx32gxjtgb/playlist.m3u8
+广西交通台 FM100.3,http://ls.qingting.fm/live/1758.m3u8
+广西教育生活,https://satellitepull.cnr.cn/live/wx32gbjyshgb/playlist.m3u8
+广西经济广播,https://satellitepull.cnr.cn/live/wx32gxjjgb/playlist.m3u8
+广西女主播电台 FM97.0,http://ls.qingting.fm/live/1754.m3u8
+广西人民广播,https://satellitepull.cnr.cn/live/wx32gxrmgb/playlist.m3u8
+广西私家车930 FM93.0,http://ls.qingting.fm/live/1756.m3u8
+广西文艺广播,https://satellitepull.cnr.cn/live/wx32gxwygb/playlist.m3u8
+广西新闻910 FM91.0,http://ls.qingting.fm/live/1753.m3u8
+广西音乐台 FM95.0,http://ls.qingting.fm/live/4875.m3u8
+广州 MYFM 88.0 (都市生活),http://ls.qingting.fm/live/52712.m3u8
+广州花都广播 FM100.5,http://ls.qingting.fm/live/1263.m3u8
+广州交通电台 FM106.1,http://ls.qingting.fm/live/4955.m3u8
+广州汽车音乐电台 FM102.7,http://live.xmcdn.com/live/257/64.m3u8 
+广州新闻电台 FM96.2,http://live.xmcdn.com/live/256/64.m3u8 
+贵州电台交通广播 FM95.2,http://ls.qingting.fm/live/23927.m3u8
+贵州都市广播,https://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
+贵州故事广播,https://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
+贵州经济广播,https://satellitepull.cnr.cn/live/wx32gzjjgb/playlist.m3u8
+贵州旅游广播,https://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
+贵州音乐广播,https://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
+贵州综合广播,https://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
+海口音乐广播,http://ls.qingting.fm/live/23859.m3u8
+海南国际旅游之声 FM103.8,http://ls.qingting.fm/live/1862.m3u8 
+海南交通广播,https://satellitepull.cnr.cn/live/wxhainjtgb/playlist.m3u8
+海南民生广播 FM101,http://ls.qingting.fm/live/1511803.m3u8 
+海南新闻广播,https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8 
+海南音乐广播,https://satellitepull.cnr.cn/live/wxhainyygb/playlist.m3u8
+河北 My FM 102.9,http://ls.qingting.fm/live/2508757.m3u8
+河北故事广播 FM107.9,http://ls.qingting.fm/live/1645.m3u8
+河北交通广播 FM99.2,http://ls.qingting.fm/live/1646.m3u8
+河北交通广播,https://satellitepull.cnr.cn/live/wxhebjtgb/playlist.m3u8
+河北经济广播,https://satellitepull.cnr.cn/live/wxhebjjgb/playlist.m3u8
+河北旅游广播 AM603,http://ls.qingting.fm/live/1651.m3u8
+河北农民广播 AM558,http://ls.qingting.fm/live/1650.m3u8 
+河北生活广播,https://satellitepull.cnr.cn/live/wxhebshgb/playlist.m3u8
+河北私家车广播 FM90.7,http://ls.qingting.fm/live/4868.m3u8
+河北文艺广播 https://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+河北新闻广播 FM104.3,http://ls.qingting.fm/live/1644.m3u8 
+河北音乐广播,https://satellitepull.cnr.cn/live/wxhebyygb/playlist.m3u8
+河北综合广播,https://satellitepull.cnr.cn/live/wxhebzhgb/playlist.m3u8
+河南My Radio广播https://stream.hndt.com/live/yingshi/playlist.m3u8
+河南大象资讯台,https://stream.hndt.com/live/nongcun/playlist.m3u8
+鹤壁交通音乐广播 FM93.5,http://ls.qingting.fm/live/3032681.m3u8
+鹤山电台104.7,http://ls.qingting.fm/live/1286.m3u8
+黑龙江爱家调频,https://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8
+黑龙江朝鲜语,https://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8
+黑龙江高校广播,https://satellitepull.cnr.cn/live/wx32hljgxgb/playlist.m3u8
+黑龙江交通广播,https://satellitepull.cnr.cn/live/wx32hljjtgb/playlist.m3u8
+黑龙江女性广播,https://satellitepull.cnr.cn/live/wx32hljnxgb/playlist.m3u8
+黑龙江私家车,https://satellitepull.cnr.cn/live/wx32hljsjcgb/playlist.m3u8
+黑龙江乡村广播,https://satellitepull.cnr.cn/live/wx32hljxcgb/playlist.m3u8
+黑龙江新闻广播,https://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
+黑龙江音乐广播,https://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
+衡阳交通广播 FM101.8,http://ls.qingting.fm/live/5079921.m3u8
+衡阳新闻广播 FM98.9,http://ls.qingting.fm/live/5079970.m3u8
+呼和浩特交通广播 FM107.4,http://ls.qingting.fm/live/2218715.m3u8
+呼和浩特新闻综合广播 FM92.9,http://ls.qingting.fm/live/2218711.m3u8
+呼伦贝尔汉语广播,https://satellitepull.cnr.cn/live/wx32nmghlbehygb/playlist.m3u8
+呼伦贝尔蒙语广播,https://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8
+湖北妇女儿童,https://satellitepull.cnr.cn/live/wx32hubfnetgb/playlist.m3u8
+湖北交通广播,https://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8
+湖北经典音乐,https://satellitepull.cnr.cn/live/wx32hubyygb/playlist.m3u8
+湖北经济广播,https://satellitepull.cnr.cn/live/wx32hubjjgb/playlist.m3u8
+湖北农村广播,https://satellitepull.cnr.cn/live/wx32hubncgb/playlist.m3u8
+湖北生活广播,https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
+湖北之声,https://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
+湖北资讯广播,https://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8
+湖南交通广播,https://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
+湖南金鹰之声,https://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
+湖南经济广播,https://satellitepull.cnr.cn/live/wx32hunjjgb/playlist.m3u8
+湖南年代音乐台,https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+湖南文艺广播,https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
+湖南潇湘之声,https://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
+湖南新闻广播,https://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
+湖州交通文艺广播 FM98.5,http://ls.qingting.fm/live/2811.m3u8
+湖州经济广播 FM103.5,http://ls.qingting.fm/live/2812.m3u8
+湖州综合广播 湖州之声 FM05,http://ls.qingting.fm/live/2810.m3u8
+华语环球,https://sk.cri.cn/hyhq.m3u8
+环球资讯,https://sk.cri.cn/905.m3u8
+惠州环保交通广播 FM98.8,http://ls.qingting.fm/live/5017.m3u8
+惠州新闻综合广播 FM100,http://ls.qingting.fm/live/5016.m3u8
+惠州音乐广播 FM90.7,http://ls.qingting.fm/live/2212959.m3u8
+吉林交通广播,https://satellitepull.cnr.cn/live/wxjljtgb/playlist.m3u8
+吉林经济广播,https://satellitepull.cnr.cn/live/wxjljjgb/playlist.m3u8
+吉林乡村广播,https://satellitepull.cnr.cn/live/wxjlxcgb/playlist.m3u8
+吉林新闻综合,https://satellitepull.cnr.cn/live/wxjlxwzhgb/playlist.m3u8
+济南故事广播 FM104.3,http://ls.qingting.fm/live/1672.m3u8
+济南经济广播 FM90.9,http://ls.qingting.fm/live/1668.m3u8
+济南私家车广播 FM93.6,http://ls.qingting.fm/live/1670.m3u8
+江苏财经广播 AM585,http://lzlive.vojs.cn/caijing/92/live.m3u8
+江苏财经广播,https://satellitepull.cnr.cn/live/wx32jscjgb/playlist.m3u8
+江苏故事广播,https://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
+江苏健康广播,https://satellitepull.cnr.cn/live/wx32jsjkgb/playlist.m3u8
+江苏交通广播,https://satellitepull.cnr.cn/live/wx32jsjtgb/playlist.m3u8
+江苏金陵之声,https://satellitepull.cnr.cn/live/wx32jsqctp/playlist.m3u8
+江苏经典流行音乐,https://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
+江苏文艺广播,https://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
+江苏新闻广播,https://satellitepull.cnr.cn/live/wx32jsxwgb/playlist.m3u8
+江苏新闻综合,https://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8
+江苏音乐广播,https://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
+江西都市广播,https://satellitepull.cnr.cn/live/wx32jiangxdsgb/playlist.m3u8
+江西交通广播,https://satellitepull.cnr.cn/live/wx32jiangxjtgb/playlist.m3u8
+江西民生广播,https://satellitepull.cnr.cn/live/wx32jiangxmsgb/playlist.m3u8
+江西农村广播,https://satellitepull.cnr.cn/live/wx32jiangxncgb/playlist.m3u8
+江西新闻广播,https://satellitepull.cnr.cn/live/wx32jiangxxwgb/playlist.m3u8
+江西音乐广播,https://satellitepull.cnr.cn/live/wx32jiangxyygb/playlist.m3u8
+经典音乐,https://ngcdn004.cnr.cn/live/dszs/index.m3u8
+经济之声,https://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+
+ 
+龙广音乐广播 FM95.8,http://stream3.hljtv.com/hljrdnx/sd/live.m3u8
+梅州交通广播 FM105.8,http://ls.qingting.fm/live/24195.m3u8
+梅州新闻广播 FM94.8,http://ls.qingting.fm/live/24173.m3u8
+每日歌曲,https://lhttp.qingting.fm/live/5021381/64k.mp3
+蒙古语综合广播,https://satellitepull.cnr.cn/live/wx32nmgmyxwgb/playlist.m3u8
+民族之声,https://ngcdn009.cnr.cn/live/mzzs/index.m3u8
+南方生活广播,https://satellitepull.cnr.cn/live/wxgdnfshgb/playlist.m3u8
+南海之声,https://sk.cri.cn/nhzs.m3u8
+南宁交通音乐广播 FM107.4,http://ls.qingting.fm/live/80793.m3u8?aac
+南通交通广播 FM92.9,http://ls.qingting.fm/live/2216385.m3u8
+南通新闻广播 FM97.0,http://ls.qingting.fm/live/1611381.m3u8
+内蒙古对外广播,https://satellitepull.cnr.cn/live/wx32nmgdwgb/playlist.m3u8
+内蒙古汉语广播,https://satellitepull.cnr.cn/live/wx32nmghyzhxwgb/playlist.m3u8
+内蒙古交通之声,https://satellitepull.cnr.cn/live/wx32nmgjtgb/playlist.m3u8
+内蒙古经济生活,https://satellitepull.cnr.cn/live/wx32nmgjjgb/playlist.m3u8
+内蒙古绿野之声,https://satellitepull.cnr.cn/live/wx32nmglyzs/playlist.m3u8
+内蒙古蒙古语广播,https://satellitepull.cnr.cn/live/wx32nmgmygb/playlist.m3u8
+内蒙古评书曲艺,https://satellitepull.cnr.cn/live/wx32nmgpsqy/playlist.m3u8
+内蒙古音乐之声,https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+宁夏都市广播,https://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8
+宁夏经济广播,https://satellitepull.cnr.cn/live/wxnxjjgb/playlist.m3u8
+宁夏新闻广播,https://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8
+宁夏音乐广播,https://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8
+宁波动感105 FM105.2,http://ls.qingting.fm/live/3047946.m3u8
+宁波交通广播 FM93.9,http://ls.qingting.fm/live/1140.m3u8
+宁夏都市广播 FM103.7,http://ls.qingting.fm/live/1842.m3u8
+宁夏交通广播 FM98.4,http://ls.qingting.fm/live/1840.m3u8
+黔西南金州之声 FM107.9,http://ls.qingting.fm/live/5045.m3u8
+青岛故事广播 FM95.2,http://ls.qingting.fm/live/4956.m3u8
+青岛交通广播 FM89.7,http://ls.qingting.fm/live/1676.m3u8
+青岛西海岸城市生活广播 FM92.6,http://ls.qingting.fm/live/33446.m3u8
+青岛新闻广播 FM107.6,http://ls.qingting.fm/live/1673.m3u8
+青海藏语广播,https://satellitepull.cnr.cn/live/wx32qhzygb/playlist.m3u8
+青海交通音乐,https://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
+青海交通音乐广播 FM97.2,http://ls.qingting.fm/live/5009.m3u8
+青海经济广播,https://satellitepull.cnr.cn/live/wx32qhjjgb/playlist.m3u8
+青海生活广播 花儿调频 FM90.3,http://ls.qingting.fm/live/2163891.m3u8
+青海之声,https://satellitepull.cnr.cn/live/wx32qhwxzhgb/playlist.m3u8
+轻松调频,https://sk.cri.cn/915.m3u8
+山东交通广播,https://satellitepull.cnr.cn/live/wxsdjtgb/playlist.m3u8
+山东经典音乐,https://audiolive302.iqilu.com/sdradioShenghuo/sdradio04/playlist.m3u8
+山东经济广播,https://satellitepull.cnr.cn/live/wxsdjjgb/playlist.m3u8
+山东女主播电台 FM97.5,http://ls.qingting.fm/live/60258.m3u8
+山东生活广播 MyFM FM105,http://ls.qingting.fm/live/60260.m3u8
+山东体育休闲,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
+山东文艺广播,https://satellitepull.cnr.cn/live/wxsdwyssgb/playlist.m3u8
+山东乡村广播,https://satellitepull.cnr.cn/live/wxsdxcgb/playlist.m3u8
+山东新闻广播 FM95,http://ls.qingting.fm/live/60180.m3u8
+山东音乐广播,https://satellitepull.cnr.cn/live/wxsdyygb/playlist.m3u8
+山西综合广播,https://satellitepull.cnr.cn/live/wxssxxwgb/playlist.m3u8
+陕西都市广播,https://satellitepull.cnr.cn/live/wxsxxdsgb/playlist.m3u8
+陕西交通广播,https://satellitepull.cnr.cn/live/wxsxxjtgb/playlist.m3u8
+陕西经济广播,https://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
+陕西农村广播,https://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8
+陕西青春广播,https://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
+陕西戏曲广播,https://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8
+陕西新闻广播,https://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
+陕西音乐广播,https://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
+上海东方广播,https://satellitepull.cnr.cn/live/wx32dfgbdt/playlist.m3u8
+上海新闻广播,https://satellitepull.cnr.cn/live/wx32shrmgb/playlist.m3u8
+深圳飞扬971,https://satellitepull.cnr.cn/live/wxszfy971/playlist.m3u8
+深圳交通频率,https://satellitepull.cnr.cn/live/wxszjjpl/playlist.m3u8
+深圳快乐1062(交通广播),http://ls.qingting.fm/live/1272.m3u8
+深圳私家车,https://satellitepull.cnr.cn/live/wxszsjcgb/playlist.m3u8
+神州之声,https://ngcdn006.cnr.cn/live/szzs/index.m3u8
+世界华声,https://sk.cri.cn/hxfh.m3u8
+四川财富广播 FM94.0,http://ls.qingting.fm/live/4927.m3u8
+四川城市之音,https://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
+四川交通广播,https://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
+四川经济广播,https://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
+四川民族广播 AM954,http://ls.qingting.fm/live/1115.m3u8
+四川民族频率,https://satellitepull.cnr.cn/live/wxscmzgb/playlist.m3u8
+四川岷江音乐,https://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
+四川私家车925,https://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
+四川私家车广播 FM92.5,http://ls.qingting.fm/live/4939.m3u8
+四川文艺广播,https://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
+四川新闻频率,https://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
+四川综合广播,https://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
+台海之声,https://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+太原交通广播 FM107,http://ls.qingting.fm/live/4900.m3u8
+太原私家车Radio FM104.4,http://ls.qingting.fm/live/4018.m3u8
+太原新闻广播 FM91.2,http://ls.qingting.fm/live/23873.m3u8
+太原音乐广播 FM102.6,http://ls.qingting.fm/live/1185.m3u8
+万盛旅游交通广播 FM92.2,http://ls.qingting.fm/live/5359760.m3u8
+ 
+ 
+万州交通广播,http://live.xmcdn.com/live/1679/64.m3u8
+万州综合广播
+http://live.xmcdn.com/live/1678/64.m3u8
+潍坊私家车广播 FM93.3,http://ls.qingting.fm/live/84511.m3u8
+潍坊新闻广播 FM100.2,http://ls.qingting.fm/live/60358.m3u8
+潍坊音乐优生活 FM90.8,http://ls.qingting.fm/live/4865.m3u8
+温州交通广播 FM103.9,http://ls.qingting.fm/live/23863.m3u8
+温州经济生活广播 FM88.8,http://ls.qingting.fm/live/23867.m3u8
+温州绿色之声 FM93.8,http://ls.qingting.fm/live/1158.m3u8
+温州私家车音乐广播 FM100.3,http://ls.qingting.fm/live/23865.m3u8
+温州新闻广播 FM94.9,http://ls.qingting.fm/live/23861.m3u8
+文艺之声,https://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+无锡交通广播 FM106.9,http://ls.qingting.fm/live/2780.m3u8
+无锡新闻广播 FM93.7,http://ls.qingting.fm/live/2777.m3u8
+西安交通广播 FM104.3,http://ls.qingting.fm/live/1611.m3u8
+西安新闻广播 FM95.0,http://ls.qingting.fm/live/1610.m3u8
+西安音乐广播 FM93.1,http://ls.qingting.fm/live/1612.m3u8
+西安资讯广播 FM106.1,http://stream3.xiancity.cn/2/sd/live.m3u8
+西藏藏语广播,https://satellitepull.cnr.cn/live/wxxzzygb/playlist.m3u8
+西藏藏语康巴方言,https://satellitepull.cnr.cn/live/wxxzzykbfy/playlist.m3u8
+西藏都市生活,https://satellitepull.cnr.cn/live/wxxzdsshgb/playlist.
+西宁交通频率,http://ls.qingting.fm/live/3400408.m3u8
+西宁新闻频率,http://ls.qingting.fm/live/3400403.m3u8
+咸阳城市之声 FM100.7,http://ls.qingting.fm/live/3559664.m3u8
+香港之声,https://ngcdn008.cnr.cn/live/xgzs/index.m3u8
+香格里拉之声,https://satellitepull.cnr.cn/live/wxxgllzs/playlist.m3u8
+襄阳交通广播 FM89.0,http://ls.qingting.fm/live/1307.m3u8 
+襄阳音乐广播,http://ls.qingting.fm/live/5057.m3u8
+新疆故事广播 FM102.8,http://ls.qingting.fm/live/1911.m3u8
+新疆哈语广播,https://satellitepull.cnr.cn/live/wxxjhygb/playlist.m3u8 
+新疆交通广播,https://satellitepull.cnr.cn/live/wxxjjtgb/playlist.m3u8
+新疆柯尔克孜语广播,https://satellitepull.cnr.cn/live/wxxjkygb/playlist.m3u8
+新疆绿色广播,https://satellitepull.cnr.cn/live/wxxjlsgb/playlist.m3u8 
+新疆蒙语广播,https://satellitepull.cnr.cn/live/wxxjmygb/playlist.m3u8
+新疆民生广播 FM92.4 ,http://ls.qingting.fm/live/76186.m3u8
+新疆私家车广播 FM92.9 ,http://ls.qingting.fm/live/1909.m3u8
+新疆私家车广播,https://satellitepull.cnr.cn/live/wxxjsjcgb/playlist.m3u8 
+新疆维吾尔语交通文艺广播,https://satellitepull.cnr.cn/live/wxxjwyjtwygb/playlist.m3u8
+新疆维语综合广播,https://satellitepull.cnr.cn/live/wxxjwyzhgb/playlist.m3u8 
+新疆新闻广播,https://satellitepull.cnr.cn/live/wxxjxwgb/playlist.m3u8
+延边文艺广播,https://satellitepull.cnr.cn/live/wxybwyshgb/playlist.m3u8
+延边新闻广播,https://satellitepull.cnr.cn/live/wxybxwgb/playlist.m3u8
+羊城交通广播,https://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8
+阳泉交通广播,http://ls.qingting.fm/live/4592896.m3u8?aac
+阳泉新闻综合广播,http://ls.qingting.fm/live/5876899.m3u8?aac
+阳信人民广播电台 FM103.4,http://ls.qingting.fm/live/2915753.m3u8
+音乐之声,https://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+岳阳交通广播 FM106.1,http://ls.qingting.fm/live/88931.m3u8
+岳阳新闻综合广播,http://ls.qingting.fm/live/88933.m3u8
+阅读之声,https://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+云南国际广播,https://satellitepull.cnr.cn/live/wxynsegb/playlist.m3u8 
+云南交通之声,https://satellitepull.cnr.cn/live/wxynjtgb/playlist.m3u8 
+云南教育广播,https://satellitepull.cnr.cn/live/wxynjygb/playlist.m3u8 
+云南经济广播,https://satellitepull.cnr.cn/live/wxynjjgb/playlist.m3u8 
+云南民族广播,https://satellitepull.cnr.cn/live/wxynmzgb/playlist.m3u8 
+云南新闻广播,https://satellitepull.cnr.cn/live/wxynxwgb/playlist.m3u8 
+云南音乐广播,https://satellitepull.cnr.cn/live/wxynyygb/playlist.m3u8
+长春生活故事广播 FM90.0,http://ls.qingting.fm/live/5014.m3u8
+长沙城市之声 FM101.7,http://ls.qingting.fm/live/4237.m3u8
+长沙新闻广播 FM105.0,http://ls.qingting.fm/live/4877.m3u8
+长治交通文艺广播 FM94.9,http://ls.qingting.fm/live/2669405.m3u8
+长治新闻综合广播(幸福广播) FM94.3,http://ls.qingting.fm/live/2702863.m3u8
+浙江财富广播 FM95 ,http://ls.qingting.fm/live/4519.m3u8
+浙江城市之声,https://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
+浙江动听(音乐调频) FM96.8,http://ls.qingting.fm/live/4866.m3u8 
+浙江交通之声
+https://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
+浙江经济广播,https://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
+浙江民生996,https://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8 
+浙江女主播电台,https://satellitepull.cnr.cn/live/wxzj1045/playlist.m3u8
+浙江悦动之音,https://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8 
+浙江之声,https://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
+郑州车道,http://ls.qingting.fm/live/1221.m3u8
+郑州活力,http://ls.qingting.fm/live/4921.m3u8
+郑州经典广播,http://ls.qingting.fm/live/1223.m3u8
+郑州汽车广播,http://ls.qingting.fm/live/1211.m3u8
+郑州私家车,http://ls.qingting.fm/live/1222.m3u8
+郑州新闻广播,http://ls.qingting.fm/live/1220.m3u8
+中国交通广播,https://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+中国乡村之声,https://ngcdn017.cnr.cn/live/xczs/index.m3u8
+中国之声,https://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+重庆都市广播,http://live.xmcdn.com/live/132/64.m3u8
+重庆都市广播,http://ls.qingting.fm/live/1502.m3u8
+重庆都市广播,https://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8  
+重庆交通广播,https://satellitepull.cnr.cn/live/wxcqjtgb/playlist.m3u8 
+重庆经济广播,https://satellitepull.cnr.cn/live/wxcqjjgb/playlist.m3u8
+重庆文艺广播,https://satellitepull.cnr.cn/live/wxcqwygb/playlist.m3u8 
+重庆新闻广播,https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8 
+重庆音乐广播,https://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
+珠海电台活力915,http://ls.qingting.fm/live/2473319.m3u8
+珠海电台交通音乐875,http://ls.qingting.fm/live/1275.m3u8
+珠海电台先锋951,http://ls.qingting.fm/live/1274.m3u8
+珠江经济台,https://satellitepull.cnr.cn/live/wxgdzjjjt/playlist.m3u8
+
+
+
+
